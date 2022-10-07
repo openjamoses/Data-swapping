@@ -98,10 +98,7 @@ class SensitivityAnalysis:
             # percentile_25 = np.percentile(np.unique(data_range), 25)
             percentile_50 = np.percentile(np.unique(data_range), 50)
             # percentile_75 = np.percentile(np.unique(data_range), 75)
-        # if percentile_50 == percentile_25:
-        #    percentile_50 = np.max(data_range)/2
-        # if percentile_25 == np.min(data_range):
-        #    percentile_25 = percentile_50/2
+
         for i in range(len(data_range)):
             fold_id = percentile_50
             if data_range[i] <= percentile_50:
@@ -423,9 +420,6 @@ class SensitivityAnalysis:
             TPR_after = calculate_TPR(TP_after, FP_after, TN_after, FN_after)
             FPR_after = calculate_FPR(TP_after, FP_after, TN_after, FN_after)
             SP_after = calculate_SP(TP_after, FP_after, TN_after, FN_after)
-
-            #if len(category_target_original) == 0:
-            #    print('f_importance: ', category, f_importance, category_target_original, category_target_predicted_after)
 
             proportion = np.sum(
                 category_target_predicted_before != category_target_predicted_after)  # calculate_proportion(TP, FP, TN, FN)
@@ -1085,15 +1079,7 @@ class SensitivityAnalysis:
                     category_indices.append(column_id)
 
             for swap_proportion_ in swap_proportion:
-                #for iter in range(iterations):
-                #_, random_index_, _2, y_sampled_k = data_split(data=self.x_test, sample_size=swap_proportion)
-                #random_index = random.choices(range(len(self.x_test)), k=N)
-                #x_sampled_k = []
-                #y_sampled_k = []
-                #for random_i in random_index:
-                #    #if i in random_index:
-                #    x_sampled_k.append([x_ for x_ in self.x_test[random_i]])
-                #    y_sampled_k.append(self.y_test[random_i])
+                ## looking through each features in the test set
                 for column_id in range(self.x_train.shape[1]):
                     x_sampled_k_feature = self.get_features_by_index(self.x_test, column_id)
                     a_after, b_after = [], []
@@ -1203,40 +1189,7 @@ class SensitivityAnalysis:
 
                             x_test_altered_feature = self.get_features_by_index(x_test_altered, [column_id,column_id2])
 
-
-                            #distortion_multiple = DistanceMeasure2._distance_multiple(self.x_test, x_test_altered,
-                            #                                                          category_indices, alpha=alpha)
-                            #distortion_feature = DistanceMeasure2._quared_error_proportion(x_sampled_k_feature,
-                            #                                                               x_test_altered_feature)
-
-
-                            #kl_div_distortion, js_div_distortion = DistanceMeasure2.js_divergence(x_sampled_k_feature,
-                            #                                                                         x_test_altered_feature)
-                            #hellinger_distortion = DistanceMeasure2.hellinger_continous_1d(x_sampled_k_feature,
-                            #                                                                         x_test_altered_feature)
-                            #wasserstein_distance_distortion =  DistanceMeasure2.wasserstein_distance(x_sampled_k_feature,
-                            #                                                                         x_test_altered_feature)
-                            #cramers_v_distortion = DistanceMeasure.cramers_v(x_sampled_k_feature,x_test_altered_feature)
-                            #total_variation_distortion = DistanceMeasure2.total_variation_distance(x_sampled_k_feature,
-                            #                                                                         x_test_altered_feature)
-
-                            #print('sampled k feature distortion values: ', kl_div_distortion, hellinger_distortion, wasserstein_distance_distortion, cramers_v_distortion, total_variation_distortion)
-
-                            #kl_div_distortion, js_div_distortion = DistanceMeasure2.js_divergence_2d(x_sampled_k, x_test_altered)
-
-                            #wasserstein_distance_distortion = DistanceMeasure2.wasserstein_distance_pdf2d(x_sampled_k, x_test_altered)
-
-                            #hellinger_distortion = DistanceMeasure.hellinger_multivariate(self.x_test, x_test_altered)
-
-                            #cramers_v_distortion = DistanceMeasure.cramers_v(x_sampled_k, x_test_altered)
-
-                            distortion_multiple, distortion_feature = 0,0 #hellinger_distortion, hellinger_distortion
-
-                            #total_variation_distortion = DistanceMeasure2.total_variation_distance_2d(x_sampled_k, x_test_altered)
-                            #print('cramers_v: ', cramers_v)
-
-                            #perc_parity, x_test_altered, random_index_, category_indices, y_predicted_before, y_predicted_after, column_id, column_id2, p_pred,
-                            #q_pred, distortion_multiple, distortion_feature
+                            distortion_multiple, distortion_feature = 0,0
 
                             #print('Check compute_metrics_indirect function starts here ----')
                             data_category_2_columns_after = self.compute_metrics_indirect(alpha, x_test_altered,
@@ -1435,128 +1388,13 @@ if __name__ == '__main__':
     #data_name = 'adult'
     #data_name = 'Student'
     path = '../dataset/experiments/data/'
-    #load_data = LoadTrainTest(path)
-    #train, test, target_index = load_data.load_adult(data_name)
-
-    # corr_columns = get_correlation(df_adult, correlation_threshold)
-
-    # corrMatrix = df_adult.corr()
-    # sn.heatmap(corrMatrix, annot=True)
-    # corr = df_adult.corr()
-    # fig, ax = plt.subplots(figsize=(10, 10))
-    # ax.matshow(corr)
-    # plt.xticks(range(len(corr.columns)), corr.columns)
-    # plt.yticks(range(len(corr.columns)), corr.columns)
-
-    # plt.savefig(path + "/png/{}.png".format(data_name))
-    # plt.show()
     target_name = loadData.target_name
     target_index = loadData.target_index
     for colum in colums_list:
         print(colum, df_adult[target_name].corr(df_adult[colum]))
-    # corr = df_adult.corr()
-    # corr.style.background_gradient(cmap='coolwarm')
-
     df_adult.to_csv(path + '{}-transformed.csv'.format(data_name), index=False)
-
-    # print(df_adult)
-    # print(target_name)
-    # print(target_index)
     sensitivityAnalysis = SensitivityAnalysis(df_adult.to_numpy(), df_adult, target_index=target_index,
                                               sensitive_name=sensitive_list[0], sensitive_index=sensitive_indices[0],
                                               data_name=data_name, colums_list=colums_list,
                                               threshold=correlation_threshold)
     sensitivityAnalysis.fit_nn()
-
-    '''
-    rank_path = '../dataset/experiments/data/{}/sensitivity/'.format(data_name)
-    if not os.path.exists(rank_path + "global"):
-        os.makedirs(rank_path + "global")
-    if not os.path.exists(rank_path + "local"):
-        os.makedirs(rank_path + "local")
-    if not os.path.exists(rank_path + "logs"):
-        os.makedirs(rank_path + "logs")
-    rank_path_global = rank_path + "global/"
-    rank_path_local = rank_path + "local/"
-    rank_path_log = rank_path + "logs/"
-    #self.new_path = log_path + str(data_name) + "/{}/".format(id)
-    #self.log_path_global = log_path + 'KL_Divergence_global_{}.csv'.format(data_name)
-    data_file_global = open(rank_path_global+'log_{}.csv'.format(data_name), mode='w', newline='', encoding='utf-8')
-    data_writer_global = csv.writer(data_file_global)
-    data_writer_global.writerow(['Feature', 'Rank_Global_AVG','Rank_Global_MSF', 'Rank_Local_AVG', 'Rank_Local_MSF'])
-
-    ## todo: compute ranking
-    df_global = pd.read_csv(sensitivityAnalysis.log_path_global)
-    ranking_attributes = ['JS_Divergence', 'Casuality', 'Importance']  # , 'SP', 'Casuality',
-    # ranking_attributes = ['JS_Divergence', 'Casuality']  # , 'SP', 'Casuality',
-    PSA = 'Feature'
-    sub_category = 'Category'
-    ranking = Ranking()
-    rank_global_psa, rank_global, rank_global_median = ranking.rank_average(df_global, feature_name=PSA, PSA=ranking_attributes)
-    rank_global = ranking.sort_dict(rank_global, reverse=False)
-    print('Global ranking: ', rank_global)
-
-
-
-
-
-
-    # df = pd.read_csv(path + 'logging/log_kl_divergence_adult-45.csv')
-    df_local = pd.read_csv(sensitivityAnalysis.log_path_local)
-    rank_local_psa, rank_local, rank_local_median = ranking.rank_average(df_local, PSA, sub_category=sub_category, PSA=ranking_attributes)
-    rank_local = ranking.sort_dict(rank_local, reverse=False)
-    data_ranks = {}
-    for key, val in rank_local.items():
-        key_split = key.split('|')[0]
-        if key_split in data_ranks.keys():
-            data_ranks[key_split].append(val)
-        else:
-            data_ranks[key_split] = [val]
-    for key, val in data_ranks.items():
-        data_ranks[key] = np.mean(val)
-
-    print('Local ranking: ', rank_local)
-    print('Local ranking averaging: ', ranking.sort_dict(data_ranks, reverse=False))
-    rank = 0
-    for key, val in data_ranks.items():
-        if rank != val:
-            rank += 1
-        data_ranks[key] = rank
-
-    #data_ranks = ranking.sort_dict(data_ranks, reverse=)
-
-
-    ## Rank by multiplicative score function
-    print('\n***** Ranking by Multiplicative Score Function ********\n')
-    rank_global_psa, rank_global_2, rank_global_median = ranking.rank_multiplicative_score_function(df_global, feature_name=PSA, PSA=ranking_attributes)
-    rank_global = ranking.sort_dict(rank_global, reverse=False)
-    print('Global ranking MSF: ', rank_global_2)
-
-    rank_local_psa, rank_local, rank_local_median = ranking.rank_multiplicative_score_function(df_local, PSA, sub_category=sub_category,
-                                                            PSA=ranking_attributes)
-    rank_local = ranking.sort_dict(rank_local, reverse=False)
-    data_ranks_2 = {}
-    for key, val in rank_local.items():
-        key_split = key.split('|')[0]
-        if key_split in data_ranks_2.keys():
-            data_ranks_2[key_split].append(val)
-        else:
-            data_ranks_2[key_split] = [val]
-    for key, val in data_ranks_2.items():
-        data_ranks_2[key] = np.mean(val)
-    data_ranks_2 = ranking.sort_dict(data_ranks_2, reverse=True)
-
-    rank_id = 0
-    for key, val in data_ranks_2.items():
-        if val != rank_id:
-            rank_id += 1
-        data_ranks_2[key] = rank_id
-
-
-    print('Local ranking: ', rank_local)
-    print('Local ranking MSF: ', ranking.sort_dict(data_ranks_2, reverse=False))
-
-    for key, val in rank_global.items():
-        data_writer_global.writerow([key, val, rank_global_2.get(key), data_ranks.get(key), data_ranks_2.get(key)])
-    #data_writer_global.writerow(['Feature', 'Rank_Global_AVG', 'Rank_Global_MSF', 'Rank_Local_AVG', 'Rank_Local_MSF'])
-    data_file_global.close()'''
