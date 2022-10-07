@@ -1,0 +1,41 @@
+Distance_Measure,Feature,Distance_Rank,Shap_Rant,Difference
+"Hellinger
+ distance",race,1,5,4
+"Hellinger
+ distance",sex,2,4,2
+"Hellinger
+ distance",age,3,1,2
+"Hellinger
+ distance",c_charge_degree,4,3,1
+"Hellinger
+ distance",priors_count,5,2,3
+"Jensen-Shannon
+ divergence",race,1,5,4
+"Jensen-Shannon
+ divergence",sex,2,4,2
+"Jensen-Shannon
+ divergence",age,3,1,2
+"Jensen-Shannon
+ divergence",c_charge_degree,4,3,1
+"Jensen-Shannon
+ divergence",priors_count,5,2,3
+"Total variation
+ distance",race,1,5,4
+"Total variation
+ distance",sex,2,4,2
+"Total variation
+ distance",age,3,1,2
+"Total variation
+ distance",c_charge_degree,4,3,1
+"Total variation
+ distance",priors_count,5,2,3
+"Wasserstein
+ distance",race,3,5,2
+"Wasserstein
+ distance",sex,1,4,3
+"Wasserstein
+ distance",age,2,1,1
+"Wasserstein
+ distance",c_charge_degree,4,3,1
+"Wasserstein
+ distance",priors_count,5,2,3

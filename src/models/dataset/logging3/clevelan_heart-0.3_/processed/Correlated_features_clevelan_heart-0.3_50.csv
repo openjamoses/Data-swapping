@@ -1,0 +1,50 @@
+"Swap 
+ Percentage",Measurement,Feature,sex,age,thalach,ca,thal,exang,cp,trestbps,restecg,fbs,oldpeak,chol,AVG
+50%,Hellinger distance,sex,-,0.08,0.07,0.17,0.12,0.08,0.09,0.15,0.02,0.02,0.14,0.07,1.023
+50%,Wasserstein distance,sex,-,0.01,0.01,0.02,0.02,0.01,0.01,0.02,0.0,0.0,0.02,0.01,0.121
+50%,Total variation distance,sex,-,0.2,0.23,0.57,0.45,0.2,0.25,0.46,0.04,0.03,0.45,0.19,3.069
+50%,Jensen-Shannon divergence,sex,-,0.04,0.04,0.09,0.07,0.04,0.05,0.08,0.01,0.01,0.07,0.04,0.54
+50%,Hellinger distance,age,-,-,0.12,0.17,0.16,0.11,0.14,0.13,0.06,0.06,0.17,0.13,1.246
+50%,Wasserstein distance,age,-,-,0.01,0.02,0.01,0.01,0.01,0.01,0.01,0.01,0.02,0.01,0.138
+50%,Total variation distance,age,-,-,0.31,0.52,0.42,0.24,0.34,0.35,0.09,0.11,0.47,0.33,3.171
+50%,Jensen-Shannon divergence,age,-,-,0.06,0.09,0.08,0.06,0.08,0.07,0.03,0.03,0.09,0.07,0.651
+50%,Hellinger distance,thalach,-,-,-,0.17,0.2,0.09,0.15,0.13,0.06,0.05,0.14,0.09,1.096
+50%,Wasserstein distance,thalach,-,-,-,0.02,0.03,0.01,0.02,0.01,0.01,0.0,0.02,0.01,0.125
+50%,Total variation distance,thalach,-,-,-,0.55,0.6,0.19,0.44,0.35,0.11,0.08,0.43,0.23,2.985
+50%,Jensen-Shannon divergence,thalach,-,-,-,0.09,0.1,0.04,0.08,0.07,0.03,0.02,0.07,0.05,0.558
+50%,Hellinger distance,ca,-,-,-,-,0.19,0.11,0.22,0.16,0.11,0.12,0.17,0.17,1.248
+50%,Wasserstein distance,ca,-,-,-,-,0.02,0.02,0.03,0.02,0.02,0.02,0.02,0.02,0.167
+50%,Total variation distance,ca,-,-,-,-,0.54,0.26,0.5,0.34,0.22,0.26,0.43,0.38,2.933
+50%,Jensen-Shannon divergence,ca,-,-,-,-,0.1,0.06,0.11,0.08,0.05,0.06,0.09,0.09,0.633
+50%,Hellinger distance,thal,-,-,-,-,-,0.09,0.14,0.12,0.07,0.07,0.15,0.1,0.731
+50%,Wasserstein distance,thal,-,-,-,-,-,0.01,0.02,0.01,0.01,0.01,0.02,0.01,0.086
+50%,Total variation distance,thal,-,-,-,-,-,0.23,0.41,0.34,0.19,0.13,0.49,0.25,2.034
+50%,Jensen-Shannon divergence,thal,-,-,-,-,-,0.05,0.07,0.06,0.04,0.03,0.08,0.05,0.387
+50%,Hellinger distance,exang,-,-,-,-,-,-,0.13,0.12,0.05,0.03,0.11,0.08,0.528
+50%,Wasserstein distance,exang,-,-,-,-,-,-,0.01,0.01,0.0,0.0,0.01,0.01,0.05
+50%,Total variation distance,exang,-,-,-,-,-,-,0.34,0.31,0.08,0.06,0.34,0.15,1.284
+50%,Jensen-Shannon divergence,exang,-,-,-,-,-,-,0.07,0.06,0.03,0.02,0.06,0.04,0.271
+50%,Hellinger distance,cp,-,-,-,-,-,-,-,0.18,0.1,0.08,0.17,0.12,0.66
+50%,Wasserstein distance,cp,-,-,-,-,-,-,-,0.03,0.02,0.01,0.03,0.02,0.105
+50%,Total variation distance,cp,-,-,-,-,-,-,-,0.55,0.2,0.17,0.47,0.35,1.735
+50%,Jensen-Shannon divergence,cp,-,-,-,-,-,-,-,0.1,0.05,0.05,0.09,0.07,0.364
+50%,Hellinger distance,trestbps,-,-,-,-,-,-,-,-,0.09,0.1,0.16,0.13,0.494
+50%,Wasserstein distance,trestbps,-,-,-,-,-,-,-,-,0.01,0.01,0.02,0.01,0.053
+50%,Total variation distance,trestbps,-,-,-,-,-,-,-,-,0.16,0.17,0.38,0.24,0.95
+50%,Jensen-Shannon divergence,trestbps,-,-,-,-,-,-,-,-,0.05,0.05,0.08,0.07,0.252
+50%,Hellinger distance,restecg,-,-,-,-,-,-,-,-,-,0.01,0.1,0.03,0.138
+50%,Wasserstein distance,restecg,-,-,-,-,-,-,-,-,-,0.0,0.02,0.01,0.026
+50%,Total variation distance,restecg,-,-,-,-,-,-,-,-,-,0.03,0.34,0.09,0.463
+50%,Jensen-Shannon divergence,restecg,-,-,-,-,-,-,-,-,-,0.01,0.05,0.02,0.079
+50%,Hellinger distance,fbs,-,-,-,-,-,-,-,-,-,-,0.1,0.05,0.151
+50%,Wasserstein distance,fbs,-,-,-,-,-,-,-,-,-,-,0.01,0.01,0.017
+50%,Total variation distance,fbs,-,-,-,-,-,-,-,-,-,-,0.28,0.16,0.448
+50%,Jensen-Shannon divergence,fbs,-,-,-,-,-,-,-,-,-,-,0.05,0.03,0.077
+50%,Hellinger distance,oldpeak,-,-,-,-,-,-,-,-,-,-,-,0.14,0.139
+50%,Wasserstein distance,oldpeak,-,-,-,-,-,-,-,-,-,-,-,0.02,0.018
+50%,Total variation distance,oldpeak,-,-,-,-,-,-,-,-,-,-,-,0.33,0.329
+50%,Jensen-Shannon divergence,oldpeak,-,-,-,-,-,-,-,-,-,-,-,0.07,0.072
+50%,Hellinger distance,chol,-,-,-,-,-,-,-,-,-,-,-,-,0
+50%,Wasserstein distance,chol,-,-,-,-,-,-,-,-,-,-,-,-,0
+50%,Total variation distance,chol,-,-,-,-,-,-,-,-,-,-,-,-,0
+50%,Jensen-Shannon divergence,chol,-,-,-,-,-,-,-,-,-,-,-,-,0

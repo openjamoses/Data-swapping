@@ -1,0 +1,38 @@
+"Swap 
+ Percentage",Measurement,Feature,age,education,job,loan,balance,housing,duration,campaign,default,AVG
+50%,Hellinger distance,age,-,1.23,1.34,1.38,1.55,1.53,1.78,1.47,0.9,11.189
+50%,Wasserstein distance,age,-,0.01,0.01,0.02,0.01,0.01,0.03,0.02,0.01,0.115
+50%,Total variation distance,age,-,0.34,0.38,0.48,0.53,0.5,0.88,0.51,0.23,3.848
+50%,Jensen-Shannon divergence,age,-,0.13,0.13,0.14,0.16,0.15,0.17,0.14,0.09,1.117
+50%,Hellinger distance,education,-,-,1.2,1.22,1.47,1.38,1.55,1.34,0.73,8.869
+50%,Wasserstein distance,education,-,-,0.0,0.01,0.01,0.01,0.03,0.01,0.0,0.072
+50%,Total variation distance,education,-,-,0.27,0.34,0.45,0.39,0.85,0.43,0.13,2.863
+50%,Jensen-Shannon divergence,education,-,-,0.11,0.11,0.13,0.13,0.13,0.12,0.07,0.806
+50%,Hellinger distance,job,-,-,-,1.04,1.32,1.23,1.58,1.17,0.58,6.93
+50%,Wasserstein distance,job,-,-,-,0.01,0.01,0.0,0.03,0.01,0.0,0.057
+50%,Total variation distance,job,-,-,-,0.3,0.43,0.37,0.84,0.36,0.09,2.39
+50%,Jensen-Shannon divergence,job,-,-,-,0.1,0.12,0.12,0.14,0.11,0.06,0.644
+50%,Hellinger distance,loan,-,-,-,-,1.39,1.35,1.5,1.08,0.67,5.998
+50%,Wasserstein distance,loan,-,-,-,-,0.01,0.01,0.03,0.01,0.01,0.065
+50%,Total variation distance,loan,-,-,-,-,0.47,0.42,0.89,0.34,0.11,2.232
+50%,Jensen-Shannon divergence,loan,-,-,-,-,0.13,0.13,0.13,0.1,0.06,0.554
+50%,Hellinger distance,balance,-,-,-,-,-,1.64,1.87,1.49,0.99,5.984
+50%,Wasserstein distance,balance,-,-,-,-,-,0.01,0.03,0.01,0.01,0.058
+50%,Total variation distance,balance,-,-,-,-,-,0.49,0.91,0.45,0.22,2.08
+50%,Jensen-Shannon divergence,balance,-,-,-,-,-,0.15,0.17,0.14,0.09,0.547
+50%,Hellinger distance,housing,-,-,-,-,-,-,1.62,1.53,0.96,4.114
+50%,Wasserstein distance,housing,-,-,-,-,-,-,0.03,0.01,0.01,0.048
+50%,Total variation distance,housing,-,-,-,-,-,-,0.83,0.48,0.21,1.518
+50%,Jensen-Shannon divergence,housing,-,-,-,-,-,-,0.14,0.14,0.09,0.364
+50%,Hellinger distance,duration,-,-,-,-,-,-,-,1.65,0.61,2.26
+50%,Wasserstein distance,duration,-,-,-,-,-,-,-,0.04,0.02,0.053
+50%,Total variation distance,duration,-,-,-,-,-,-,-,0.67,0.28,0.952
+50%,Jensen-Shannon divergence,duration,-,-,-,-,-,-,-,0.16,0.08,0.239
+50%,Hellinger distance,campaign,-,-,-,-,-,-,-,-,0.29,0.288
+50%,Wasserstein distance,campaign,-,-,-,-,-,-,-,-,0.0,0.002
+50%,Total variation distance,campaign,-,-,-,-,-,-,-,-,0.05,0.047
+50%,Jensen-Shannon divergence,campaign,-,-,-,-,-,-,-,-,0.02,0.025
+50%,Hellinger distance,default,-,-,-,-,-,-,-,-,-,0
+50%,Wasserstein distance,default,-,-,-,-,-,-,-,-,-,0
+50%,Total variation distance,default,-,-,-,-,-,-,-,-,-,0
+50%,Jensen-Shannon divergence,default,-,-,-,-,-,-,-,-,-,0

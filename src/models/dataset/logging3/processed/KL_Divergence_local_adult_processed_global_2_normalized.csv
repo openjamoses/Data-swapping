@@ -1,0 +1,421 @@
+ID,Features,Swap,Swap_ratio,Distance_measure,Value,Normalized
+F_0,age,0.1,10%,"Hellinger
+ distance(+)",0.007489553138791019,1.0
+F_0,age,0.1,10%,"Wasserstein
+ distance(+)",0.00018400746824751498,1.0
+F_0,age,0.1,10%,"Contingency
+ coefficient(-)",0.7071067811865476,0.41614662221316967
+F_0,age,0.1,10%,"Total variation
+ distance(+)",0.00338339885797162,0.36971661535836803
+F_0,age,0.1,10%,"Jensen–Shannon
+ divergence(+)",0.002013905921552785,0.037188600475619005
+F_0,age,0.15,15%,"Hellinger
+ distance(+)",0.030539762364193413,1.0
+F_0,age,0.15,15%,"Wasserstein
+ distance(+)",0.0005089922821395052,1.0
+F_0,age,0.15,15%,"Contingency
+ coefficient(-)",0.7022662689424441,0.4145515043416877
+F_0,age,0.15,15%,"Total variation
+ distance(+)",0.009401301289487445,0.5669285354885757
+F_0,age,0.15,15%,"Jensen–Shannon
+ divergence(+)",0.006737255607007065,0.07230047252684639
+F_0,age,0.2,20%,"Hellinger
+ distance(+)",0.041407431824405164,1.0
+F_0,age,0.2,20%,"Wasserstein
+ distance(+)",0.0004775819016125775,1.0
+F_0,age,0.2,20%,"Contingency
+ coefficient(-)",0.7010777402386806,0.4141312083456374
+F_0,age,0.2,20%,"Total variation
+ distance(+)",0.010517562910512045,0.5392134794021998
+F_0,age,0.2,20%,"Jensen–Shannon
+ divergence(+)",0.007921355747540586,0.0651239929607177
+F_0,age,0.4,40%,"Hellinger
+ distance(+)",0.0968910072228368,1.0
+F_0,age,0.4,40%,"Wasserstein
+ distance(+)",0.00062243472378255,1.0
+F_0,age,0.4,40%,"Contingency
+ coefficient(-)",0.6985727819220887,0.41335783882573657
+F_0,age,0.4,40%,"Total variation
+ distance(+)",0.015667911829954674,0.47499555616586636
+F_0,age,0.4,40%,"Jensen–Shannon
+ divergence(+)",0.013098396417993093,0.05467281867774214
+F_0,age,0.6,60%,"Hellinger
+ distance(+)",0.1480346175327718,1.0
+F_0,age,0.6,60%,"Wasserstein
+ distance(+)",0.00068327313658022,1.0
+F_0,age,0.6,60%,"Contingency
+ coefficient(-)",0.6962493736633969,0.4126682172402156
+F_0,age,0.6,60%,"Total variation
+ distance(+)",0.02028267494798074,0.40956799474584554
+F_0,age,0.6,60%,"Jensen–Shannon
+ divergence(+)",0.01633007604621829,0.05603029197314369
+F_0,age,0.8,80%,"Hellinger
+ distance(+)",0.18862405177777222,1.0
+F_0,age,0.8,80%,"Wasserstein
+ distance(+)",0.00072914301716042,1.0
+F_0,age,0.8,80%,"Contingency
+ coefficient(-)",0.6945575580763835,0.412141830100093
+F_0,age,0.8,80%,"Total variation
+ distance(+)",0.02495583204827697,0.4235826735736963
+F_0,age,0.8,80%,"Jensen–Shannon
+ divergence(+)",0.01804300443166932,0.05381210695336263
+F_0,age,0.95,95%,"Hellinger
+ distance(+)",0.25395525751460357,1.0
+F_0,age,0.95,95%,"Wasserstein
+ distance(+)",0.0009139084822994,1.0
+F_0,age,0.95,95%,"Contingency
+ coefficient(-)",0.6867453465621329,0.40952228632423987
+F_0,age,0.95,95%,"Total variation
+ distance(+)",0.032846056983568926,0.42370630304800994
+F_0,age,0.95,95%,"Jensen–Shannon
+ divergence(+)",0.0222446228093605,0.06777945397067872
+F_1,race,0.1,10%,"Hellinger
+ distance(+)",0.01090285933031424,0.03120665931445214
+F_1,race,0.1,10%,"Wasserstein
+ distance(+)",0.00016419368850754677,0.13197828060831396
+F_1,race,0.1,10%,"Contingency
+ coefficient(-)",0.6709426996684759,0.491857320263744
+F_1,race,0.1,10%,"Total variation
+ distance(+)",0.0031254097687169248,0.24206737444759982
+F_1,race,0.1,10%,"Jensen–Shannon
+ divergence(+)",0.0018521079120162852,0.0762126207420175
+F_1,race,0.15,15%,"Hellinger
+ distance(+)",0.01668254715161983,0.03853362470078709
+F_1,race,0.15,15%,"Wasserstein
+ distance(+)",0.0002782635240245445,0.13996389631921516
+F_1,race,0.15,15%,"Contingency
+ coefficient(-)",0.6987210176372824,0.5044989792739476
+F_1,race,0.15,15%,"Total variation
+ distance(+)",0.005078585558237335,0.25374407954870093
+F_1,race,0.15,15%,"Jensen–Shannon
+ divergence(+)",0.0028779323992185945,0.09460109523472653
+F_1,race,0.2,20%,"Hellinger
+ distance(+)",0.03688120036813859,0.07255387173292277
+F_1,race,0.2,20%,"Wasserstein
+ distance(+)",0.0004523091859070708,0.17752691269062784
+F_1,race,0.2,20%,"Contingency
+ coefficient(-)",0.7056419488027491,0.5089359613093137
+F_1,race,0.2,20%,"Total variation
+ distance(+)",0.008589868746648105,0.31270183823264297
+F_1,race,0.2,20%,"Jensen–Shannon
+ divergence(+)",0.0059346313767247045,0.1601254383837838
+F_1,race,0.4,40%,"Hellinger
+ distance(+)",0.05219151670080537,0.06942520324609751
+F_1,race,0.4,40%,"Wasserstein
+ distance(+)",0.0006588597295852733,0.12677640220513575
+F_1,race,0.4,40%,"Contingency
+ coefficient(-)",0.7000443927025531,0.5188609064046571
+F_1,race,0.4,40%,"Total variation
+ distance(+)",0.011642225667914455,0.22047781431805866
+F_1,race,0.4,40%,"Jensen–Shannon
+ divergence(+)",0.009516627074261085,0.17199836904968052
+F_1,race,0.6,60%,"Hellinger
+ distance(+)",0.05539180891880189,0.062321915079791575
+F_1,race,0.6,60%,"Wasserstein
+ distance(+)",0.00051471413325285,0.07455154377216594
+F_1,race,0.6,60%,"Contingency
+ coefficient(-)",0.7044593225410443,0.5291297902719114
+F_1,race,0.6,60%,"Total variation
+ distance(+)",0.009793163937778016,0.14309372811787108
+F_1,race,0.6,60%,"Jensen–Shannon
+ divergence(+)",0.009104347670720431,0.14394702156325073
+F_1,race,0.8,80%,"Hellinger
+ distance(+)",0.07266233760354959,0.07250628220943302
+F_1,race,0.8,80%,"Wasserstein
+ distance(+)",0.000763184781630045,0.08586526883671804
+F_1,race,0.8,80%,"Contingency
+ coefficient(-)",0.6996447016344495,0.5364400694818358
+F_1,race,0.8,80%,"Total variation
+ distance(+)",0.0156643473980292,0.17710834278804705
+F_1,race,0.8,80%,"Jensen–Shannon
+ divergence(+)",0.013030239625258025,0.17818234703093852
+F_1,race,0.95,95%,"Hellinger
+ distance(+)",0.0857726679028049,0.07517219117341181
+F_1,race,0.95,95%,"Wasserstein
+ distance(+)",0.0009099300368461901,0.08241787791018196
+F_1,race,0.95,95%,"Contingency
+ coefficient(-)",0.6962076915377212,0.5489927536995741
+F_1,race,0.95,95%,"Total variation
+ distance(+)",0.021423585080377124,0.18835076282714638
+F_1,race,0.95,95%,"Jensen–Shannon
+ divergence(+)",0.014914481257191064,0.18021489211003072
+F_2,sex,0.1,10%,"Hellinger
+ distance(+)",0.006837935391692069,0.019802244693596226
+F_2,sex,0.1,10%,"Wasserstein
+ distance(+)",0.00013780779799481052,0.19589689662246695
+F_2,sex,0.1,10%,"Contingency
+ coefficient(-)",0.7071067811865476,0.5028360311043122
+F_2,sex,0.1,10%,"Total variation
+ distance(+)",0.00248843074985657,0.1987298434801613
+F_2,sex,0.1,10%,"Jensen–Shannon
+ divergence(+)",0.001235121652926715,0.05460994633436159
+F_2,sex,0.15,15%,"Hellinger
+ distance(+)",0.027218165376676585,0.06137537968902115
+F_2,sex,0.15,15%,"Wasserstein
+ distance(+)",0.0004494330284732288,0.26492350300364054
+F_2,sex,0.15,15%,"Contingency
+ coefficient(-)",0.703441745949906,0.502921607982114
+F_2,sex,0.15,15%,"Total variation
+ distance(+)",0.0075828504453836956,0.30913237530132104
+F_2,sex,0.15,15%,"Jensen–Shannon
+ divergence(+)",0.004894631906470678,0.15730998760935172
+F_2,sex,0.2,20%,"Hellinger
+ distance(+)",0.04286868572550111,0.08335087266853171
+F_2,sex,0.2,20%,"Wasserstein
+ distance(+)",0.0005092053288503499,0.33394279624741957
+F_2,sex,0.2,20%,"Contingency
+ coefficient(-)",0.7040762332950685,0.5043799883999138
+F_2,sex,0.2,20%,"Total variation
+ distance(+)",0.00958769069922057,0.33546933590089
+F_2,sex,0.2,20%,"Jensen–Shannon
+ divergence(+)",0.007497856554967109,0.20148533108369196
+F_2,sex,0.4,40%,"Hellinger
+ distance(+)",0.050722986541543356,0.06760382310832067
+F_2,sex,0.4,40%,"Wasserstein
+ distance(+)",0.00046764855479896505,0.1754106335573556
+F_2,sex,0.4,40%,"Contingency
+ coefficient(-)",0.7016288599604731,0.5107461978206425
+F_2,sex,0.4,40%,"Total variation
+ distance(+)",0.010907316372500999,0.21010873552690434
+F_2,sex,0.4,40%,"Jensen–Shannon
+ divergence(+)",0.00925043968033966,0.17343190915388548
+F_2,sex,0.6,60%,"Hellinger
+ distance(+)",0.06464745645563577,0.07198590839858966
+F_2,sex,0.6,60%,"Wasserstein
+ distance(+)",0.000485983383221285,0.15441907692058582
+F_2,sex,0.6,60%,"Contingency
+ coefficient(-)",0.7012287608496641,0.5162758307574072
+F_2,sex,0.6,60%,"Total variation
+ distance(+)",0.01361368461232548,0.19205617685317447
+F_2,sex,0.6,60%,"Jensen–Shannon
+ divergence(+)",0.011591904340651665,0.18142176461818227
+F_2,sex,0.8,80%,"Hellinger
+ distance(+)",0.07662309154682923,0.07615753629019294
+F_2,sex,0.8,80%,"Wasserstein
+ distance(+)",0.00073071847009454,0.14542769858799917
+F_2,sex,0.8,80%,"Contingency
+ coefficient(-)",0.6981173013932993,0.5205807075652281
+F_2,sex,0.8,80%,"Total variation
+ distance(+)",0.019607554374523075,0.20981412519014966
+F_2,sex,0.8,80%,"Jensen–Shannon
+ divergence(+)",0.01415850431353611,0.19528990734054585
+F_2,sex,0.95,95%,"Hellinger
+ distance(+)",0.0993196188651555,0.08602356803717769
+F_2,sex,0.95,95%,"Wasserstein
+ distance(+)",0.000933376625614995,0.16403546400877744
+F_2,sex,0.95,95%,"Contingency
+ coefficient(-)",0.6905417661611687,0.5261184429572419
+F_2,sex,0.95,95%,"Total variation
+ distance(+)",0.027278068385518512,0.22872637017607877
+F_2,sex,0.95,95%,"Jensen–Shannon
+ divergence(+)",0.018338362606002915,0.21704180802073642
+F_3,capital-gain,0.1,10%,"Hellinger
+ distance(+)",0.02218297693154077,0.01521574086867753
+F_3,capital-gain,0.1,10%,"Wasserstein
+ distance(+)",0.000307900644731745,0.08164350363063488
+F_3,capital-gain,0.1,10%,"Contingency
+ coefficient(-)",0.5598233244292159,0.3620351184121649
+F_3,capital-gain,0.1,10%,"Total variation
+ distance(+)",0.006262603725274275,0.07189201108147078
+F_3,capital-gain,0.1,10%,"Jensen–Shannon
+ divergence(+)",0.0042391939603241,0.05878453681633854
+F_3,capital-gain,0.15,15%,"Hellinger
+ distance(+)",0.06429443613489214,0.03484316599222994
+F_3,capital-gain,0.15,15%,"Wasserstein
+ distance(+)",0.001265348973835265,0.19390041438450759
+F_3,capital-gain,0.15,15%,"Contingency
+ coefficient(-)",0.6549926104548909,0.399223516184237
+F_3,capital-gain,0.15,15%,"Total variation
+ distance(+)",0.02255665264311884,0.15081766766278226
+F_3,capital-gain,0.15,15%,"Jensen–Shannon
+ divergence(+)",0.012361090420688794,0.1278540155096544
+F_3,capital-gain,0.2,20%,"Hellinger
+ distance(+)",0.07372492577868166,0.03458016850950568
+F_3,capital-gain,0.2,20%,"Wasserstein
+ distance(+)",0.001025383983860005,0.12789334722631826
+F_3,capital-gain,0.2,20%,"Contingency
+ coefficient(-)",0.6220591413459547,0.38680429916254466
+F_3,capital-gain,0.2,20%,"Total variation
+ distance(+)",0.02196272182731502,0.11164444495918074
+F_3,capital-gain,0.2,20%,"Jensen–Shannon
+ divergence(+)",0.012331831092598665,0.11227155543677382
+F_3,capital-gain,0.4,40%,"Hellinger
+ distance(+)",0.16731130869285932,0.05224490439948823
+F_3,capital-gain,0.4,40%,"Wasserstein
+ distance(+)",0.0022721866169889303,0.13034088574337943
+F_3,capital-gain,0.4,40%,"Contingency
+ coefficient(-)",0.631958214729073,0.39098107718643677
+F_3,capital-gain,0.4,40%,"Total variation
+ distance(+)",0.048129321412498226,0.13855535971406116
+F_3,capital-gain,0.4,40%,"Jensen–Shannon
+ divergence(+)",0.024372910188445694,0.14414744162446938
+F_3,capital-gain,0.6,60%,"Hellinger
+ distance(+)",0.2524219421898541,0.06538826207328227
+F_3,capital-gain,0.6,60%,"Wasserstein
+ distance(+)",0.0036960837585329697,0.1472709709876661
+F_3,capital-gain,0.6,60%,"Contingency
+ coefficient(-)",0.6528084690996132,0.3990008198513796
+F_3,capital-gain,0.6,60%,"Total variation
+ distance(+)",0.06726542854406009,0.1586346442273413
+F_3,capital-gain,0.6,60%,"Jensen–Shannon
+ divergence(+)",0.03248520819166416,0.15862758095750254
+F_3,capital-gain,0.8,80%,"Hellinger
+ distance(+)",0.33379085188677743,0.07628707652096528
+F_3,capital-gain,0.8,80%,"Wasserstein
+ distance(+)",0.0037925865690880004,0.12453457453857054
+F_3,capital-gain,0.8,80%,"Contingency
+ coefficient(-)",0.6367156809275696,0.39306505704669886
+F_3,capital-gain,0.8,80%,"Total variation
+ distance(+)",0.07665998200400162,0.158348968499367
+F_3,capital-gain,0.8,80%,"Jensen–Shannon
+ divergence(+)",0.035924881374653155,0.1564154016779508
+F_3,capital-gain,0.95,95%,"Hellinger
+ distance(+)",0.40048107521176607,0.08055242361143143
+F_3,capital-gain,0.95,95%,"Wasserstein
+ distance(+)",0.004214834200109161,0.10950682795633296
+F_3,capital-gain,0.95,95%,"Contingency
+ coefficient(-)",0.6307495912507964,0.3911874208747105
+F_3,capital-gain,0.95,95%,"Total variation
+ distance(+)",0.08571476792396361,0.13835891994395672
+F_3,capital-gain,0.95,95%,"Jensen–Shannon
+ divergence(+)",0.0388715573768424,0.15048117649027332
+F_4,capital-loss,0.1,10%,"Hellinger
+ distance(+)",0.01776012258559574,0.011603901988395877
+F_4,capital-loss,0.1,10%,"Wasserstein
+ distance(+)",0.0002430681458122,0.05978276432150489
+F_4,capital-loss,0.1,10%,"Contingency
+ coefficient(-)",0.45711622215105274,0.3176824939824001
+F_4,capital-loss,0.1,10%,"Total variation
+ distance(+)",0.0042649867890381795,0.01946886808798511
+F_4,capital-loss,0.1,10%,"Jensen–Shannon
+ divergence(+)",0.003405106867895265,0.0461699855952972
+F_4,capital-loss,0.15,15%,"Hellinger
+ distance(+)",0.04529599107116549,0.024182752608343502
+F_4,capital-loss,0.15,15%,"Wasserstein
+ distance(+)",0.001607257115084015,0.2254513948838103
+F_4,capital-loss,0.15,15%,"Contingency
+ coefficient(-)",0.48342421148754633,0.3300344758496142
+F_4,capital-loss,0.15,15%,"Total variation
+ distance(+)",0.02751761564496725,0.09286718269306912
+F_4,capital-loss,0.15,15%,"Jensen–Shannon
+ divergence(+)",0.010541413211662245,0.11015120556684771
+F_4,capital-loss,0.2,20%,"Hellinger
+ distance(+)",0.059143774219589065,0.027893662948098932
+F_4,capital-loss,0.2,20%,"Wasserstein
+ distance(+)",0.0016913452385922151,0.19477793492402137
+F_4,capital-loss,0.2,20%,"Contingency
+ coefficient(-)",0.5240985534348971,0.3478969931144235
+F_4,capital-loss,0.2,20%,"Total variation
+ distance(+)",0.038111345603376104,0.11028661679890432
+F_4,capital-loss,0.2,20%,"Jensen–Shannon
+ divergence(+)",0.011493913121980726,0.10674951079408698
+F_4,capital-loss,0.4,40%,"Hellinger
+ distance(+)",0.12482149819842585,0.03930069801214279
+F_4,capital-loss,0.4,40%,"Wasserstein
+ distance(+)",0.0011094557133092349,0.06764722470354737
+F_4,capital-loss,0.4,40%,"Contingency
+ coefficient(-)",0.6602348111564608,0.4027321305789676
+F_4,capital-loss,0.4,40%,"Total variation
+ distance(+)",0.023666230426110234,0.04453325458877721
+F_4,capital-loss,0.4,40%,"Jensen–Shannon
+ divergence(+)",0.01348847365062999,0.08634288497470193
+F_4,capital-loss,0.6,60%,"Hellinger
+ distance(+)",0.19644828228107808,0.050801871540312224
+F_4,capital-loss,0.6,60%,"Wasserstein
+ distance(+)",0.002559004989747536,0.10369201791248342
+F_4,capital-loss,0.6,60%,"Contingency
+ coefficient(-)",0.6719561088453292,0.40716972906795096
+F_4,capital-loss,0.6,60%,"Total variation
+ distance(+)",0.04867997589740225,0.07706085978751029
+F_4,capital-loss,0.6,60%,"Jensen–Shannon
+ divergence(+)",0.023491214603030393,0.11973903250187755
+F_4,capital-loss,0.8,80%,"Hellinger
+ distance(+)",0.27288864094174003,0.06235077265083436
+F_4,capital-loss,0.8,80%,"Wasserstein
+ distance(+)",0.0037178459802510904,0.11867912612725136
+F_4,capital-loss,0.8,80%,"Contingency
+ coefficient(-)",0.6286387010047338,0.39153081877367035
+F_4,capital-loss,0.8,80%,"Total variation
+ distance(+)",0.0692520420106152,0.09545329598765905
+F_4,capital-loss,0.8,80%,"Jensen–Shannon
+ divergence(+)",0.03092176299819026,0.1380063841212901
+F_4,capital-loss,0.95,95%,"Hellinger
+ distance(+)",0.33238642993969736,0.06697133334415831
+F_4,capital-loss,0.95,95%,"Wasserstein
+ distance(+)",0.003721132458367285,0.09571376030460205
+F_4,capital-loss,0.95,95%,"Contingency
+ coefficient(-)",0.6501210742436982,0.39943334352910004
+F_4,capital-loss,0.95,95%,"Total variation
+ distance(+)",0.0744618020988058,0.09676454537085799
+F_4,capital-loss,0.95,95%,"Jensen–Shannon
+ divergence(+)",0.03303038832966994,0.13090223463244202
+F_5,hours-per-week,0.1,10%,"Hellinger
+ distance(+)",0.00612120658838926,0.052622683134193035
+F_5,hours-per-week,0.1,10%,"Wasserstein
+ distance(+)",0.00016881080262266685,0.7371647870834476
+F_5,hours-per-week,0.1,10%,"Contingency
+ coefficient(-)",0.7071067811865476,0.4163716977208961
+F_5,hours-per-week,0.1,10%,"Total variation
+ distance(+)",0.0031201574788036,0.3380770556180131
+F_5,hours-per-week,0.1,10%,"Jensen–Shannon
+ divergence(+)",0.0016351424490627649,0.0035130816592144403
+F_5,hours-per-week,0.15,15%,"Hellinger
+ distance(+)",0.030468317293782222,0.21000732204688013
+F_5,hours-per-week,0.15,15%,"Wasserstein
+ distance(+)",0.00063260478950824,0.9273237002935314
+F_5,hours-per-week,0.15,15%,"Contingency
+ coefficient(-)",0.7026315465903055,0.41484775341221464
+F_5,hours-per-week,0.15,15%,"Total variation
+ distance(+)",0.011161970724057354,0.5583055235815305
+F_5,hours-per-week,0.15,15%,"Jensen–Shannon
+ divergence(+)",0.006927014062893257,0.027472380435461102
+F_5,hours-per-week,0.2,20%,"Hellinger
+ distance(+)",0.046900880287925724,0.22942688888132776
+F_5,hours-per-week,0.2,20%,"Wasserstein
+ distance(+)",0.000628164299717345,0.8828545492415221
+F_5,hours-per-week,0.2,20%,"Contingency
+ coefficient(-)",0.7014705807024773,0.41454611996889945
+F_5,hours-per-week,0.2,20%,"Total variation
+ distance(+)",0.01279755432612364,0.5646823787013743
+F_5,hours-per-week,0.2,20%,"Jensen–Shannon
+ divergence(+)",0.008978351631403135,0.031774926802145755
+F_5,hours-per-week,0.4,40%,"Hellinger
+ distance(+)",0.09513485582778809,0.2909843724496092
+F_5,hours-per-week,0.4,40%,"Wasserstein
+ distance(+)",0.0008599489853167601,0.8651775916055119
+F_5,hours-per-week,0.4,40%,"Contingency
+ coefficient(-)",0.6984919833679533,0.41364297662164484
+F_5,hours-per-week,0.4,40%,"Total variation
+ distance(+)",0.016936577929022655,0.41867781694839984
+F_5,hours-per-week,0.4,40%,"Jensen–Shannon
+ divergence(+)",0.01301970695558544,0.024138715961785587
+F_5,hours-per-week,0.6,60%,"Hellinger
+ distance(+)",0.14756298707446977,0.5495676768776416
+F_5,hours-per-week,0.6,60%,"Wasserstein
+ distance(+)",0.0010699051649376901,0.9613106800749988
+F_5,hours-per-week,0.6,60%,"Contingency
+ coefficient(-)",0.6969354444115784,0.41321700854150933
+F_5,hours-per-week,0.6,60%,"Total variation
+ distance(+)",0.020599485635153694,0.3674099828153196
+F_5,hours-per-week,0.6,60%,"Jensen–Shannon
+ divergence(+)",0.01609470928762152,0.035453379808021324
+F_5,hours-per-week,0.8,80%,"Hellinger
+ distance(+)",0.21198246783739427,0.39498822202700196
+F_5,hours-per-week,0.8,80%,"Wasserstein
+ distance(+)",0.0012104658532376702,0.8512036595262115
+F_5,hours-per-week,0.8,80%,"Contingency
+ coefficient(-)",0.687700474766802,0.41015038063024944
+F_5,hours-per-week,0.8,80%,"Total variation
+ distance(+)",0.02622958512330581,0.39555911621895823
+F_5,hours-per-week,0.8,80%,"Jensen–Shannon
+ divergence(+)",0.020404513149551235,0.02883628058466488
+F_5,hours-per-week,0.95,95%,"Hellinger
+ distance(+)",0.26403093006034994,0.505623267107906
+F_5,hours-per-week,0.95,95%,"Wasserstein
+ distance(+)",0.00155894275616664,0.8951398270535856
+F_5,hours-per-week,0.95,95%,"Contingency
+ coefficient(-)",0.6821250688219178,0.40842333811091247
+F_5,hours-per-week,0.95,95%,"Total variation
+ distance(+)",0.036160447033979304,0.4130081652583224
+F_5,hours-per-week,0.95,95%,"Jensen–Shannon
+ divergence(+)",0.023592638452918254,0.02700891075860044

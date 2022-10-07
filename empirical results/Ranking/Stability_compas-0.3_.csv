@@ -1,0 +1,13 @@
+Measures,"Hellinger
+ distance","Jensen-Shannon
+ divergence","Total variation
+ distance","Wasserstein
+ distance"
+"Hellinger
+ distance",-,1.0,1.0,1.0,1.0
+"Jensen-Shannon
+ divergence",1.0,-,1.0,1.0,1.0
+"Total variation
+ distance",1.0,1.0,-,1.0,1.0
+"Wasserstein
+ distance",1.0,1.0,1.0,-,1.0

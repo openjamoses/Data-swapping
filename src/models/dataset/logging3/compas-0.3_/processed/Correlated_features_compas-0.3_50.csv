@@ -1,0 +1,22 @@
+"Swap 
+ Percentage",Measurement,Feature,race,sex,age,c_charge_degree,priors_count,AVG
+50%,Hellinger distance,race,-,0.67,0.98,0.61,0.59,2.849
+50%,Wasserstein distance,race,-,0.01,0.02,0.01,0.01,0.038
+50%,Total variation distance,race,-,0.26,0.56,0.25,0.24,1.305
+50%,Jensen-Shannon divergence,race,-,0.07,0.11,0.07,0.07,0.313
+50%,Hellinger distance,sex,-,-,0.91,0.68,0.64,2.233
+50%,Wasserstein distance,sex,-,-,0.02,0.01,0.01,0.045
+50%,Total variation distance,sex,-,-,0.58,0.3,0.27,1.155
+50%,Jensen-Shannon divergence,sex,-,-,0.1,0.08,0.07,0.252
+50%,Hellinger distance,age,-,-,-,0.93,1.01,1.944
+50%,Wasserstein distance,age,-,-,-,0.02,0.02,0.041
+50%,Total variation distance,age,-,-,-,0.42,0.45,0.871
+50%,Jensen-Shannon divergence,age,-,-,-,0.1,0.11,0.212
+50%,Hellinger distance,c_charge_degree,-,-,-,-,0.64,0.637
+50%,Wasserstein distance,c_charge_degree,-,-,-,-,0.01,0.008
+50%,Total variation distance,c_charge_degree,-,-,-,-,0.25,0.246
+50%,Jensen-Shannon divergence,c_charge_degree,-,-,-,-,0.07,0.068
+50%,Hellinger distance,priors_count,-,-,-,-,-,0
+50%,Wasserstein distance,priors_count,-,-,-,-,-,0
+50%,Total variation distance,priors_count,-,-,-,-,-,0
+50%,Jensen-Shannon divergence,priors_count,-,-,-,-,-,0

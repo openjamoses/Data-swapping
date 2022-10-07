@@ -1,0 +1,169 @@
+ID,Features,Swap,Swap_ratio,Casuality_metrics,Value
+F_0,age,0.1,10%,"Permutation
+ importance(+)",30.4306
+F_0,age,0.1,10%,"Propensity
+ score(+)",0.0
+F_0,age,0.15,15%,"Permutation
+ importance(+)",32.356049999999996
+F_0,age,0.15,15%,"Propensity
+ score(+)",0.33045
+F_0,age,0.2,20%,"Permutation
+ importance(+)",30.608449999999998
+F_0,age,0.2,20%,"Propensity
+ score(+)",0.33045
+F_0,age,0.4,40%,"Permutation
+ importance(+)",32.40245
+F_0,age,0.4,40%,"Propensity
+ score(+)",0.5490999999999999
+F_0,age,0.6,60%,"Permutation
+ importance(+)",31.576600000000003
+F_0,age,0.6,60%,"Propensity
+ score(+)",0.7199500000000001
+F_0,age,0.8,80%,"Permutation
+ importance(+)",31.243299999999998
+F_0,age,0.8,80%,"Propensity
+ score(+)",0.8157500000000001
+F_0,age,0.95,95%,"Permutation
+ importance(+)",31.81655
+F_0,age,0.95,95%,"Propensity
+ score(+)",1.2898
+F_1,race,0.1,10%,"Permutation
+ importance(+)",28.35255
+F_1,race,0.1,10%,"Propensity
+ score(+)",0.0463
+F_1,race,0.15,15%,"Permutation
+ importance(+)",30.0862
+F_1,race,0.15,15%,"Propensity
+ score(+)",0.29465
+F_1,race,0.2,20%,"Permutation
+ importance(+)",27.4963
+F_1,race,0.2,20%,"Propensity
+ score(+)",0.0954
+F_1,race,0.4,40%,"Permutation
+ importance(+)",30.75495
+F_1,race,0.4,40%,"Propensity
+ score(+)",0.54455
+F_1,race,0.6,60%,"Permutation
+ importance(+)",28.531600000000005
+F_1,race,0.6,60%,"Propensity
+ score(+)",0.17735
+F_1,race,0.8,80%,"Permutation
+ importance(+)",29.480900000000002
+F_1,race,0.8,80%,"Propensity
+ score(+)",0.50225
+F_1,race,0.95,95%,"Permutation
+ importance(+)",29.15025
+F_1,race,0.95,95%,"Propensity
+ score(+)",0.70635
+F_2,sex,0.1,10%,"Permutation
+ importance(+)",27.22865
+F_2,sex,0.1,10%,"Propensity
+ score(+)",0.0
+F_2,sex,0.15,15%,"Permutation
+ importance(+)",30.07455
+F_2,sex,0.15,15%,"Propensity
+ score(+)",0.24895
+F_2,sex,0.2,20%,"Permutation
+ importance(+)",28.7144
+F_2,sex,0.2,20%,"Propensity
+ score(+)",0.1835
+F_2,sex,0.4,40%,"Permutation
+ importance(+)",29.927049999999998
+F_2,sex,0.4,40%,"Propensity
+ score(+)",0.3659
+F_2,sex,0.6,60%,"Permutation
+ importance(+)",29.23705
+F_2,sex,0.6,60%,"Propensity
+ score(+)",0.39185
+F_2,sex,0.8,80%,"Permutation
+ importance(+)",28.492449999999998
+F_2,sex,0.8,80%,"Propensity
+ score(+)",0.57675
+F_2,sex,0.95,95%,"Permutation
+ importance(+)",29.01105
+F_2,sex,0.95,95%,"Propensity
+ score(+)",1.0675000000000001
+F_3,capital-gain,0.1,10%,"Permutation
+ importance(+)",52.32095
+F_3,capital-gain,0.1,10%,"Propensity
+ score(+)",0.29464999999999997
+F_3,capital-gain,0.15,15%,"Permutation
+ importance(+)",51.37215
+F_3,capital-gain,0.15,15%,"Propensity
+ score(+)",1.0585499999999999
+F_3,capital-gain,0.2,20%,"Permutation
+ importance(+)",48.84135
+F_3,capital-gain,0.2,20%,"Propensity
+ score(+)",0.9673999999999999
+F_3,capital-gain,0.4,40%,"Permutation
+ importance(+)",52.33765
+F_3,capital-gain,0.4,40%,"Propensity
+ score(+)",2.1026499999999997
+F_3,capital-gain,0.6,60%,"Permutation
+ importance(+)",50.7702
+F_3,capital-gain,0.6,60%,"Propensity
+ score(+)",3.7865499999999996
+F_3,capital-gain,0.8,80%,"Permutation
+ importance(+)",51.1134
+F_3,capital-gain,0.8,80%,"Propensity
+ score(+)",4.3573
+F_3,capital-gain,0.95,95%,"Permutation
+ importance(+)",51.7436
+F_3,capital-gain,0.95,95%,"Propensity
+ score(+)",4.6679
+F_4,capital-loss,0.1,10%,"Permutation
+ importance(+)",50.561
+F_4,capital-loss,0.1,10%,"Propensity
+ score(+)",0.12425
+F_4,capital-loss,0.15,15%,"Permutation
+ importance(+)",49.42865
+F_4,capital-loss,0.15,15%,"Propensity
+ score(+)",0.8741999999999999
+F_4,capital-loss,0.2,20%,"Permutation
+ importance(+)",44.24675
+F_4,capital-loss,0.2,20%,"Propensity
+ score(+)",1.024
+F_4,capital-loss,0.4,40%,"Permutation
+ importance(+)",49.748599999999996
+F_4,capital-loss,0.4,40%,"Propensity
+ score(+)",1.02695
+F_4,capital-loss,0.6,60%,"Permutation
+ importance(+)",50.6014
+F_4,capital-loss,0.6,60%,"Propensity
+ score(+)",2.1451000000000002
+F_4,capital-loss,0.8,80%,"Permutation
+ importance(+)",45.48905
+F_4,capital-loss,0.8,80%,"Propensity
+ score(+)",3.3959
+F_4,capital-loss,0.95,95%,"Permutation
+ importance(+)",49.9178
+F_4,capital-loss,0.95,95%,"Propensity
+ score(+)",3.3835500000000005
+F_5,hours-per-week,0.1,10%,"Permutation
+ importance(+)",33.21125
+F_5,hours-per-week,0.1,10%,"Propensity
+ score(+)",0.0
+F_5,hours-per-week,0.15,15%,"Permutation
+ importance(+)",35.5618
+F_5,hours-per-week,0.15,15%,"Propensity
+ score(+)",0.25470000000000004
+F_5,hours-per-week,0.2,20%,"Permutation
+ importance(+)",33.863099999999996
+F_5,hours-per-week,0.2,20%,"Propensity
+ score(+)",0.356
+F_5,hours-per-week,0.4,40%,"Permutation
+ importance(+)",35.90775
+F_5,hours-per-week,0.4,40%,"Propensity
+ score(+)",0.5681
+F_5,hours-per-week,0.6,60%,"Permutation
+ importance(+)",35.14005
+F_5,hours-per-week,0.6,60%,"Propensity
+ score(+)",0.6776500000000001
+F_5,hours-per-week,0.8,80%,"Permutation
+ importance(+)",34.37715
+F_5,hours-per-week,0.8,80%,"Propensity
+ score(+)",1.22995
+F_5,hours-per-week,0.95,95%,"Permutation
+ importance(+)",34.791199999999996
+F_5,hours-per-week,0.95,95%,"Propensity
+ score(+)",1.58205

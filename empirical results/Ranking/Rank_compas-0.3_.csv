@@ -1,0 +1,10 @@
+Feature,"Hellinger
+ distance","Jensen-Shannon
+ divergence","Total variation
+ distance","Wasserstein
+ distance"
+age,1,1,1,1
+c_charge_degree,3,3,3,3
+race,4,4,4,4
+sex,2,2,2,2
+priors_count,5,5,5,5

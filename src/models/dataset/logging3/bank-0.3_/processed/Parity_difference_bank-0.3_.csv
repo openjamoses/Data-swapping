@@ -1,0 +1,337 @@
+Features,Swap,Swap_ratio,Distance_measure,Difference,Std,Protected,NonProtected
+age,10,10%,"Hellinger
+ distance(+)",-1.6626707341383993,0.8313353670691996,"age
+(>55)",<=55
+age,10,10%,"Wasserstein
+ distance(+)",-0.01877447085806897,0.009387235429034486,"age
+(>55)",<=55
+loan,10,10%,"Total variation
+ distance(+)",-0.6978665810431333,0.34893329052156663,"age
+(>55)",<=55
+loan,10,10%,"Jensen-Shannon
+ divergence(+)",-0.23505888749109466,0.11752944374554733,"age
+(>55)",<=55
+age,30,30%,"Hellinger
+ distance(+)",-2.8903191732521347,1.4451595866260676,"age
+(>55)",<=55
+age,30,30%,"Wasserstein
+ distance(+)",-0.052882093474678954,0.026441046737339477,"age
+(>55)",<=55
+loan,30,30%,"Total variation
+ distance(+)",-1.71324330463925,0.856621652319625,"age
+(>55)",<=55
+loan,30,30%,"Jensen-Shannon
+ divergence(+)",-0.42680378513849637,0.21340189256924819,"age
+(>55)",<=55
+age,50,50%,"Hellinger
+ distance(+)",-3.7121343947042127,1.8560671973521063,"age
+(>55)",<=55
+age,50,50%,"Wasserstein
+ distance(+)",-0.08202654376238719,0.041013271881193594,"age
+(>55)",<=55
+loan,50,50%,"Total variation
+ distance(+)",-2.777619702247654,1.388809851123827,"age
+(>55)",<=55
+loan,50,50%,"Jensen-Shannon
+ divergence(+)",-0.5867738732179085,0.29338693660895426,"age
+(>55)",<=55
+age,70,70%,"Hellinger
+ distance(+)",-4.505693548290086,2.2528467741450435,"age
+(>55)",<=55
+age,70,70%,"Wasserstein
+ distance(+)",-0.13599526455330727,0.06799763227665363,"age
+(>55)",<=55
+loan,70,70%,"Total variation
+ distance(+)",-3.9075013202670448,1.9537506601335224,"age
+(>55)",<=55
+loan,70,70%,"Jensen-Shannon
+ divergence(+)",-0.7266185198838916,0.3633092599419458,"age
+(>55)",<=55
+education,10,10%,"Hellinger
+ distance(+)",1.2490488195876175,0.6245244097938087,"education
+(primary, unknown)",primary
+education,10,10%,"Wasserstein
+ distance(+)",0.011779998538701571,0.0058899992693507855,"education
+(primary, unknown)",primary
+loan,10,10%,"Total variation
+ distance(+)",0.35699844554120963,0.17849922277060482,"education
+(primary, unknown)",primary
+loan,10,10%,"Jensen-Shannon
+ divergence(+)",0.16750255503672704,0.08375127751836352,"education
+(primary, unknown)",primary
+education,30,30%,"Hellinger
+ distance(+)",2.217129339266056,1.108564669633028,"education
+(primary, unknown)",primary
+education,30,30%,"Wasserstein
+ distance(+)",0.027950220902766325,0.013975110451383162,"education
+(primary, unknown)",primary
+loan,30,30%,"Total variation
+ distance(+)",0.8958930081676285,0.44794650408381426,"education
+(primary, unknown)",primary
+loan,30,30%,"Jensen-Shannon
+ divergence(+)",0.2960834792866734,0.1480417396433367,"education
+(primary, unknown)",primary
+education,50,50%,"Hellinger
+ distance(+)",2.8940199208780184,1.4470099604390092,"education
+(primary, unknown)",primary
+education,50,50%,"Wasserstein
+ distance(+)",0.04883556409520905,0.024417782047604523,"education
+(primary, unknown)",primary
+loan,50,50%,"Total variation
+ distance(+)",1.367255498524678,0.683627749262339,"education
+(primary, unknown)",primary
+loan,50,50%,"Jensen-Shannon
+ divergence(+)",0.3947535952241577,0.19737679761207885,"education
+(primary, unknown)",primary
+education,70,70%,"Hellinger
+ distance(+)",3.3976458116125285,1.6988229058062643,"education
+(primary, unknown)",primary
+education,70,70%,"Wasserstein
+ distance(+)",0.06133575119856535,0.030667875599282676,"education
+(primary, unknown)",primary
+loan,70,70%,"Total variation
+ distance(+)",1.6662500083506768,0.8331250041753384,"education
+(primary, unknown)",primary
+loan,70,70%,"Jensen-Shannon
+ divergence(+)",0.4492303547597871,0.22461517737989356,"education
+(primary, unknown)",primary
+duration,10,10%,"Hellinger
+ distance(+)",-0.14522168807658506,0.07261084403829253,"duration
+(>715)",<=715
+duration,10,10%,"Wasserstein
+ distance(+)",-0.0038739353758927343,0.0019369676879463671,"duration
+(>715)",<=715
+loan,10,10%,"Total variation
+ distance(+)",-0.1920620579371518,0.09603102896857592,"duration
+(>715)",<=715
+loan,10,10%,"Jensen-Shannon
+ divergence(+)",-0.02569015962968481,0.012845079814842404,"duration
+(>715)",<=715
+duration,30,30%,"Hellinger
+ distance(+)",-0.304421820314902,0.152210910157451,"duration
+(>715)",<=715
+duration,30,30%,"Wasserstein
+ distance(+)",-0.015704492656043165,0.00785224632802158,"duration
+(>715)",<=715
+loan,30,30%,"Total variation
+ distance(+)",-0.5694953682713527,0.28474768413567636,"duration
+(>715)",<=715
+loan,30,30%,"Jensen-Shannon
+ divergence(+)",-0.07319377024943809,0.03659688512471904,"duration
+(>715)",<=715
+duration,50,50%,"Hellinger
+ distance(+)",-0.4134283913628759,0.20671419568143795,"duration
+(>715)",<=715
+duration,50,50%,"Wasserstein
+ distance(+)",-0.01757450456601245,0.008787252283006225,"duration
+(>715)",<=715
+loan,50,50%,"Total variation
+ distance(+)",-0.860539152677452,0.430269576338726,"duration
+(>715)",<=715
+loan,50,50%,"Jensen-Shannon
+ divergence(+)",-0.09678940165245044,0.04839470082622522,"duration
+(>715)",<=715
+duration,70,70%,"Hellinger
+ distance(+)",-0.5202062157706635,0.26010310788533175,"duration
+(>715)",<=715
+duration,70,70%,"Wasserstein
+ distance(+)",-0.04647917619308394,0.02323958809654197,"duration
+(>715)",<=715
+loan,70,70%,"Total variation
+ distance(+)",-1.2844178390586918,0.6422089195293459,"duration
+(>715)",<=715
+loan,70,70%,"Jensen-Shannon
+ divergence(+)",-0.13896120404703988,0.06948060202351994,"duration
+(>715)",<=715
+balance,10,10%,"Hellinger
+ distance(+)",-1.0099589613436863,0.5049794806718432,"balance
+(>1660)",<=1660
+balance,10,10%,"Wasserstein
+ distance(+)",-0.007672084182522573,0.0038360420912612863,"balance
+(>1660)",<=1660
+loan,10,10%,"Total variation
+ distance(+)",-0.30458835762651204,0.15229417881325602,"balance
+(>1660)",<=1660
+loan,10,10%,"Jensen-Shannon
+ divergence(+)",-0.12385012557027963,0.06192506278513982,"balance
+(>1660)",<=1660
+balance,30,30%,"Hellinger
+ distance(+)",-1.827429525614201,0.9137147628071005,"balance
+(>1660)",<=1660
+balance,30,30%,"Wasserstein
+ distance(+)",-0.02666269256203823,0.013331346281019115,"balance
+(>1660)",<=1660
+loan,30,30%,"Total variation
+ distance(+)",-0.8552770439803448,0.4276385219901724,"balance
+(>1660)",<=1660
+loan,30,30%,"Jensen-Shannon
+ divergence(+)",-0.2458583271544969,0.12292916357724845,"balance
+(>1660)",<=1660
+balance,50,50%,"Hellinger
+ distance(+)",-2.3389206054592386,1.1694603027296193,"balance
+(>1660)",<=1660
+balance,50,50%,"Wasserstein
+ distance(+)",-0.041022125036001854,0.020511062518000927,"balance
+(>1660)",<=1660
+loan,50,50%,"Total variation
+ distance(+)",-1.381835378962165,0.6909176894810825,"balance
+(>1660)",<=1660
+loan,50,50%,"Jensen-Shannon
+ divergence(+)",-0.3172643951633284,0.1586321975816642,"balance
+(>1660)",<=1660
+balance,70,70%,"Hellinger
+ distance(+)",-2.734806907305481,1.3674034536527404,"balance
+(>1660)",<=1660
+balance,70,70%,"Wasserstein
+ distance(+)",-0.04417829776012502,0.02208914888006251,"balance
+(>1660)",<=1660
+loan,70,70%,"Total variation
+ distance(+)",-1.7208810059928752,0.8604405029964376,"balance
+(>1660)",<=1660
+loan,70,70%,"Jensen-Shannon
+ divergence(+)",-0.36797506008434594,0.18398753004217297,"balance
+(>1660)",<=1660
+job,10,10%,"Hellinger
+ distance(+)",0.6716076677532169,0.33580383387660845,"job
+(>5)",<=5
+job,10,10%,"Wasserstein
+ distance(+)",0.005863159164398093,0.0029315795821990465,"job
+(>5)",<=5
+loan,10,10%,"Total variation
+ distance(+)",0.08147345487336818,0.04073672743668409,"job
+(>5)",<=5
+loan,10,10%,"Jensen-Shannon
+ divergence(+)",0.08886567773879117,0.044432838869395586,"job
+(>5)",<=5
+job,30,30%,"Hellinger
+ distance(+)",1.3210484836426786,0.6605242418213393,"job
+(>5)",<=5
+job,30,30%,"Wasserstein
+ distance(+)",0.015018723365028928,0.007509361682514464,"job
+(>5)",<=5
+loan,30,30%,"Total variation
+ distance(+)",0.16427727507662948,0.08213863753831474,"job
+(>5)",<=5
+loan,30,30%,"Jensen-Shannon
+ divergence(+)",0.18676018640468453,0.09338009320234228,"job
+(>5)",<=5
+job,50,50%,"Hellinger
+ distance(+)",1.7577172153509506,0.8788586076754753,"job
+(>5)",<=5
+job,50,50%,"Wasserstein
+ distance(+)",0.027824182763933808,0.013912091381966904,"job
+(>5)",<=5
+loan,50,50%,"Total variation
+ distance(+)",0.4100741986395471,0.20503709931977354,"job
+(>5)",<=5
+loan,50,50%,"Jensen-Shannon
+ divergence(+)",0.2622123280845099,0.13110616404225492,"job
+(>5)",<=5
+job,70,70%,"Hellinger
+ distance(+)",2.1016317300930294,1.0508158650465147,"job
+(>5)",<=5
+job,70,70%,"Wasserstein
+ distance(+)",0.039518256759200475,0.019759128379600237,"job
+(>5)",<=5
+loan,70,70%,"Total variation
+ distance(+)",0.7592726794544784,0.3796363397272392,"job
+(>5)",<=5
+loan,70,70%,"Jensen-Shannon
+ divergence(+)",0.3395836440651383,0.16979182203256915,"job
+(>5)",<=5
+loan,10,10%,"Hellinger
+ distance(+)",0.7522835150936598,0.3761417575468299,"loan
+(Yes)",No
+loan,10,10%,"Wasserstein
+ distance(+)",0.006358167141088654,0.003179083570544327,"loan
+(Yes)",No
+loan,10,10%,"Total variation
+ distance(+)",0.1695556475844639,0.08477782379223195,"loan
+(Yes)",No
+loan,10,10%,"Jensen-Shannon
+ divergence(+)",0.09134705557370063,0.04567352778685031,"loan
+(Yes)",No
+loan,30,30%,"Hellinger
+ distance(+)",1.3841407717050662,0.6920703858525331,"loan
+(Yes)",No
+loan,30,30%,"Wasserstein
+ distance(+)",0.019082846631303607,0.009541423315651804,"loan
+(Yes)",No
+loan,30,30%,"Total variation
+ distance(+)",0.5456949417258115,0.2728474708629057,"loan
+(Yes)",No
+loan,30,30%,"Jensen-Shannon
+ divergence(+)",0.18491413880860483,0.09245706940430241,"loan
+(Yes)",No
+loan,50,50%,"Hellinger
+ distance(+)",1.7813591180929444,0.8906795590464722,"loan
+(Yes)",No
+loan,50,50%,"Wasserstein
+ distance(+)",0.027688766385540645,0.013844383192770322,"loan
+(Yes)",No
+loan,50,50%,"Total variation
+ distance(+)",0.7753464473666869,0.38767322368334345,"loan
+(Yes)",No
+loan,50,50%,"Jensen-Shannon
+ divergence(+)",0.2314186615600491,0.11570933078002454,"loan
+(Yes)",No
+loan,70,70%,"Hellinger
+ distance(+)",2.16700609473559,1.083503047367795,"loan
+(Yes)",No
+loan,70,70%,"Wasserstein
+ distance(+)",0.04646467589841063,0.023232337949205314,"loan
+(Yes)",No
+loan,70,70%,"Total variation
+ distance(+)",1.2353440899512482,0.6176720449756241,"loan
+(Yes)",No
+loan,70,70%,"Jensen-Shannon
+ divergence(+)",0.2982121915031629,0.14910609575158146,"loan
+(Yes)",No
+housing,10,10%,"Hellinger
+ distance(+)",0.3914980803109098,0.1957490401554549,"housing
+(No)",Yes
+housing,10,10%,"Wasserstein
+ distance(+)",0.0039006850543928957,0.0019503425271964478,"housing
+(No)",Yes
+loan,10,10%,"Total variation
+ distance(+)",0.11267015697322072,0.05633507848661036,"housing
+(No)",Yes
+loan,10,10%,"Jensen-Shannon
+ divergence(+)",0.043646477689388036,0.021823238844694018,"housing
+(No)",Yes
+housing,30,30%,"Hellinger
+ distance(+)",0.6758659339558861,0.33793296697794306,"housing
+(No)",Yes
+housing,30,30%,"Wasserstein
+ distance(+)",0.008977830784773658,0.004488915392386829,"housing
+(No)",Yes
+loan,30,30%,"Total variation
+ distance(+)",0.3247931790133416,0.1623965895066708,"housing
+(No)",Yes
+loan,30,30%,"Jensen-Shannon
+ divergence(+)",0.08636238882470043,0.043181194412350216,"housing
+(No)",Yes
+housing,50,50%,"Hellinger
+ distance(+)",0.9250705984024077,0.46253529920120384,"housing
+(No)",Yes
+housing,50,50%,"Wasserstein
+ distance(+)",0.03190100255789578,0.01595050127894789,"housing
+(No)",Yes
+loan,50,50%,"Total variation
+ distance(+)",0.6489474668598578,0.32447373342992897,"housing
+(No)",Yes
+loan,50,50%,"Jensen-Shannon
+ divergence(+)",0.13673989886290008,0.06836994943145004,"housing
+(No)",Yes
+housing,70,70%,"Hellinger
+ distance(+)",1.0588805344566024,0.5294402672283012,"housing
+(No)",Yes
+housing,70,70%,"Wasserstein
+ distance(+)",0.023593735840210125,0.011796867920105062,"housing
+(No)",Yes
+loan,70,70%,"Total variation
+ distance(+)",0.6207486291833473,0.31037431459167364,"housing
+(No)",Yes
+loan,70,70%,"Jensen-Shannon
+ divergence(+)",0.14390462931749673,0.07195231465874836,"housing
+(No)",Yes

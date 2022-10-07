@@ -1,0 +1,73 @@
+Distance_Measure,Feature,Distance_Rank,Shap_Rant,Difference
+"Hellinger
+ distance",age,1,4,3
+"Hellinger
+ distance",education,2,6,4
+"Hellinger
+ distance",job,3,7,4
+"Hellinger
+ distance",loan,4,8,4
+"Hellinger
+ distance",balance,5,3,2
+"Hellinger
+ distance",housing,6,2,4
+"Hellinger
+ distance",duration,7,1,6
+"Hellinger
+ distance",campaign,8,5,3
+"Hellinger
+ distance",default,9,9,0
+"Jensen-Shannon
+ divergence",age,1,4,3
+"Jensen-Shannon
+ divergence",education,2,6,4
+"Jensen-Shannon
+ divergence",job,3,7,4
+"Jensen-Shannon
+ divergence",loan,4,8,4
+"Jensen-Shannon
+ divergence",balance,5,3,2
+"Jensen-Shannon
+ divergence",housing,6,2,4
+"Jensen-Shannon
+ divergence",duration,7,1,6
+"Jensen-Shannon
+ divergence",campaign,8,5,3
+"Jensen-Shannon
+ divergence",default,9,9,0
+"Total variation
+ distance",age,1,4,3
+"Total variation
+ distance",education,2,6,4
+"Total variation
+ distance",job,3,7,4
+"Total variation
+ distance",loan,4,8,4
+"Total variation
+ distance",balance,5,3,2
+"Total variation
+ distance",housing,6,2,4
+"Total variation
+ distance",duration,7,1,6
+"Total variation
+ distance",campaign,8,5,3
+"Total variation
+ distance",default,9,9,0
+"Wasserstein
+ distance",age,1,4,3
+"Wasserstein
+ distance",education,2,6,4
+"Wasserstein
+ distance",job,5,7,2
+"Wasserstein
+ distance",loan,3,8,5
+"Wasserstein
+ distance",balance,4,3,1
+"Wasserstein
+ distance",housing,7,2,5
+"Wasserstein
+ distance",duration,6,1,5
+"Wasserstein
+ distance",campaign,8,5,3
+"Wasserstein
+ distance",default,9,9,0

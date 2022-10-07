@@ -1,0 +1,185 @@
+Distance_Measure,Feature,Distance_Rank,Shap_Rant,Difference
+"Hellinger
+ distance",sex,6,21,15
+"Hellinger
+ distance",age,3,6,3
+"Hellinger
+ distance",health,2,3,1
+"Hellinger
+ distance",Pstatus,4,20,16
+"Hellinger
+ distance",nursery,7,18,11
+"Hellinger
+ distance",Medu,1,1,0
+"Hellinger
+ distance",Fjob,8,16,8
+"Hellinger
+ distance",schoolsup,9,14,5
+"Hellinger
+ distance",absences,5,2,3
+"Hellinger
+ distance",activities,11,22,11
+"Hellinger
+ distance",higher,10,4,6
+"Hellinger
+ distance",traveltime,13,15,2
+"Hellinger
+ distance",paid,14,11,3
+"Hellinger
+ distance",guardian,18,19,1
+"Hellinger
+ distance",Walc,12,5,7
+"Hellinger
+ distance",freetime,15,12,3
+"Hellinger
+ distance",famsup,16,9,7
+"Hellinger
+ distance",romantic,19,17,2
+"Hellinger
+ distance",studytime,17,7,10
+"Hellinger
+ distance",goout,20,8,12
+"Hellinger
+ distance",reason,21,13,8
+"Hellinger
+ distance",famrel,22,10,12
+"Hellinger
+ distance",internet,23,23,0
+"Jensen-Shannon
+ divergence",sex,5,21,16
+"Jensen-Shannon
+ divergence",age,3,6,3
+"Jensen-Shannon
+ divergence",health,1,3,2
+"Jensen-Shannon
+ divergence",Pstatus,4,20,16
+"Jensen-Shannon
+ divergence",nursery,7,18,11
+"Jensen-Shannon
+ divergence",Medu,2,1,1
+"Jensen-Shannon
+ divergence",Fjob,6,16,10
+"Jensen-Shannon
+ divergence",schoolsup,9,14,5
+"Jensen-Shannon
+ divergence",absences,8,2,6
+"Jensen-Shannon
+ divergence",activities,11,22,11
+"Jensen-Shannon
+ divergence",higher,10,4,6
+"Jensen-Shannon
+ divergence",traveltime,13,15,2
+"Jensen-Shannon
+ divergence",paid,14,11,3
+"Jensen-Shannon
+ divergence",guardian,17,19,2
+"Jensen-Shannon
+ divergence",Walc,12,5,7
+"Jensen-Shannon
+ divergence",freetime,15,12,3
+"Jensen-Shannon
+ divergence",famsup,16,9,7
+"Jensen-Shannon
+ divergence",romantic,19,17,2
+"Jensen-Shannon
+ divergence",studytime,18,7,11
+"Jensen-Shannon
+ divergence",goout,20,8,12
+"Jensen-Shannon
+ divergence",reason,21,13,8
+"Jensen-Shannon
+ divergence",famrel,22,10,12
+"Jensen-Shannon
+ divergence",internet,23,23,0
+"Total variation
+ distance",sex,5,21,16
+"Total variation
+ distance",age,3,6,3
+"Total variation
+ distance",health,2,3,1
+"Total variation
+ distance",Pstatus,4,20,16
+"Total variation
+ distance",nursery,6,18,12
+"Total variation
+ distance",Medu,1,1,0
+"Total variation
+ distance",Fjob,8,16,8
+"Total variation
+ distance",schoolsup,7,14,7
+"Total variation
+ distance",absences,9,2,7
+"Total variation
+ distance",activities,11,22,11
+"Total variation
+ distance",higher,10,4,6
+"Total variation
+ distance",traveltime,14,15,1
+"Total variation
+ distance",paid,13,11,2
+"Total variation
+ distance",guardian,16,19,3
+"Total variation
+ distance",Walc,12,5,7
+"Total variation
+ distance",freetime,15,12,3
+"Total variation
+ distance",famsup,17,9,8
+"Total variation
+ distance",romantic,19,17,2
+"Total variation
+ distance",studytime,18,7,11
+"Total variation
+ distance",goout,20,8,12
+"Total variation
+ distance",reason,21,13,8
+"Total variation
+ distance",famrel,22,10,12
+"Total variation
+ distance",internet,23,23,0
+"Wasserstein
+ distance",sex,10,21,11
+"Wasserstein
+ distance",age,2,6,4
+"Wasserstein
+ distance",health,3,3,0
+"Wasserstein
+ distance",Pstatus,6,20,14
+"Wasserstein
+ distance",nursery,8,18,10
+"Wasserstein
+ distance",Medu,1,1,0
+"Wasserstein
+ distance",Fjob,9,16,7
+"Wasserstein
+ distance",schoolsup,4,14,10
+"Wasserstein
+ distance",absences,7,2,5
+"Wasserstein
+ distance",activities,12,22,10
+"Wasserstein
+ distance",higher,5,4,1
+"Wasserstein
+ distance",traveltime,14,15,1
+"Wasserstein
+ distance",paid,11,11,0
+"Wasserstein
+ distance",guardian,16,19,3
+"Wasserstein
+ distance",Walc,13,5,8
+"Wasserstein
+ distance",freetime,15,12,3
+"Wasserstein
+ distance",famsup,17,9,8
+"Wasserstein
+ distance",romantic,19,17,2
+"Wasserstein
+ distance",studytime,18,7,11
+"Wasserstein
+ distance",goout,20,8,12
+"Wasserstein
+ distance",reason,21,13,8
+"Wasserstein
+ distance",famrel,22,10,12
+"Wasserstein
+ distance",internet,23,23,0

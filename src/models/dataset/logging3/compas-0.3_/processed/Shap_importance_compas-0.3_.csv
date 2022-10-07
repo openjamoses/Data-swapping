@@ -1,0 +1,42 @@
+Feature,"Test 
+ Percentage",Metric,Value
+age,10%,"Shap
+ Value",7.094928515875419
+age,30%,"Shap
+ Value",21.294283739546234
+age,50%,"Shap
+ Value",35.124346473852945
+age,70%,"Shap
+ Value",48.6511146498864
+c_charge_degree,10%,"Shap
+ Value",3.3113146838100844
+c_charge_degree,30%,"Shap
+ Value",9.891784154185292
+c_charge_degree,50%,"Shap
+ Value",16.369642832042395
+c_charge_degree,70%,"Shap
+ Value",22.859905951095904
+priors_count,10%,"Shap
+ Value",3.4338480904137136
+priors_count,30%,"Shap
+ Value",10.18428292718984
+priors_count,50%,"Shap
+ Value",16.939858425978212
+priors_count,70%,"Shap
+ Value",23.5960593206405
+race,10%,"Shap
+ Value",2.1710963665309313
+race,30%,"Shap
+ Value",6.519048788954118
+race,50%,"Shap
+ Value",11.180089341736243
+race,70%,"Shap
+ Value",15.80991378114019
+sex,10%,"Shap
+ Value",2.8359810327482275
+sex,30%,"Shap
+ Value",8.231755298305535
+sex,50%,"Shap
+ Value",13.91429940941127
+sex,70%,"Shap
+ Value",19.726290757103914

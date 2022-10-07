@@ -1,0 +1,97 @@
+Distance_Measure,Feature,Distance_Rank,Shap_Rant,Difference
+"Hellinger
+ distance",sex,4,10,6
+"Hellinger
+ distance",age,2,8,6
+"Hellinger
+ distance",thalach,3,7,4
+"Hellinger
+ distance",ca,1,2,1
+"Hellinger
+ distance",thal,5,1,4
+"Hellinger
+ distance",exang,7,9,2
+"Hellinger
+ distance",cp,6,3,3
+"Hellinger
+ distance",trestbps,8,5,3
+"Hellinger
+ distance",restecg,11,11,0
+"Hellinger
+ distance",fbs,9,12,3
+"Hellinger
+ distance",oldpeak,10,4,6
+"Hellinger
+ distance",chol,12,6,6
+"Jensen-Shannon
+ divergence",sex,4,10,6
+"Jensen-Shannon
+ divergence",age,1,8,7
+"Jensen-Shannon
+ divergence",thalach,3,7,4
+"Jensen-Shannon
+ divergence",ca,2,2,0
+"Jensen-Shannon
+ divergence",thal,5,1,4
+"Jensen-Shannon
+ divergence",exang,7,9,2
+"Jensen-Shannon
+ divergence",cp,6,3,3
+"Jensen-Shannon
+ divergence",trestbps,8,5,3
+"Jensen-Shannon
+ divergence",restecg,9,11,2
+"Jensen-Shannon
+ divergence",fbs,10,12,2
+"Jensen-Shannon
+ divergence",oldpeak,11,4,7
+"Jensen-Shannon
+ divergence",chol,12,6,6
+"Total variation
+ distance",sex,2,10,8
+"Total variation
+ distance",age,1,8,7
+"Total variation
+ distance",thalach,3,7,4
+"Total variation
+ distance",ca,4,2,2
+"Total variation
+ distance",thal,5,1,4
+"Total variation
+ distance",exang,7,9,2
+"Total variation
+ distance",cp,6,3,3
+"Total variation
+ distance",trestbps,8,5,3
+"Total variation
+ distance",restecg,9,11,2
+"Total variation
+ distance",fbs,10,12,2
+"Total variation
+ distance",oldpeak,11,4,7
+"Total variation
+ distance",chol,12,6,6
+"Wasserstein
+ distance",sex,4,10,6
+"Wasserstein
+ distance",age,2,8,6
+"Wasserstein
+ distance",thalach,3,7,4
+"Wasserstein
+ distance",ca,1,2,1
+"Wasserstein
+ distance",thal,6,1,5
+"Wasserstein
+ distance",exang,8,9,1
+"Wasserstein
+ distance",cp,5,3,2
+"Wasserstein
+ distance",trestbps,7,5,2
+"Wasserstein
+ distance",restecg,9,11,2
+"Wasserstein
+ distance",fbs,11,12,1
+"Wasserstein
+ distance",oldpeak,10,4,6
+"Wasserstein
+ distance",chol,12,6,6

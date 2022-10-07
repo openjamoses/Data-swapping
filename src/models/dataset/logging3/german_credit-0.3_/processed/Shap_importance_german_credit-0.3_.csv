@@ -1,0 +1,66 @@
+Feature,"Swap 
+ Percentage",Metric,Value
+Age,10%,"Shap
+ Value",0.6503868387525278
+Age,30%,"Shap
+ Value",1.8907184935589272
+Age,50%,"Shap
+ Value",3.060385966733826
+Age,70%,"Shap
+ Value",4.441630869830531
+Checking,10%,"Shap
+ Value",0.48832165963315577
+Checking,30%,"Shap
+ Value",1.3330860440240504
+Checking,50%,"Shap
+ Value",2.1263443531316373
+Checking,70%,"Shap
+ Value",2.9564593635141483
+Credit,10%,"Shap
+ Value",1.2466151166223258
+Credit,30%,"Shap
+ Value",2.989023251446448
+Credit,50%,"Shap
+ Value",5.0463146592566
+Credit,70%,"Shap
+ Value",7.244523204566027
+Housing,10%,"Shap
+ Value",0.2880053384050907
+Housing,30%,"Shap
+ Value",0.81678670595581
+Housing,50%,"Shap
+ Value",1.236077920984507
+Housing,70%,"Shap
+ Value",1.7413194233992968
+Job,10%,"Shap
+ Value",0.17614059649811592
+Job,30%,"Shap
+ Value",0.7304755834195223
+Job,50%,"Shap
+ Value",1.144200608928941
+Job,70%,"Shap
+ Value",1.5298385239049828
+Purpose,10%,"Shap
+ Value",0.3005196276348113
+Purpose,30%,"Shap
+ Value",0.7900921024407676
+Purpose,50%,"Shap
+ Value",1.383610967985749
+Purpose,70%,"Shap
+ Value",1.9406287204699701
+Saving,10%,"Shap
+ Value",0.27478077300637777
+Saving,30%,"Shap
+ Value",0.7234358115015014
+Saving,50%,"Shap
+ Value",1.1744672564621819
+Saving,70%,"Shap
+ Value",1.6493081649742465
+Sex,10%,"Shap
+ Value",0.14367238626548912
+Sex,30%,"Shap
+ Value",0.454425604143748
+Sex,50%,"Shap
+ Value",0.7189116447707626
+Sex,70%,"Shap
+ Value",1.0088146690119415

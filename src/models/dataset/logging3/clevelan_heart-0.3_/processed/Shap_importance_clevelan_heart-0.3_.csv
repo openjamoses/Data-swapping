@@ -1,0 +1,98 @@
+Feature,"Test 
+ Percentage",Metric,Value
+age,10%,"Shap
+ Value",0.08947100954643894
+age,30%,"Shap
+ Value",0.26948072157832204
+age,50%,"Shap
+ Value",0.4781950337863757
+age,70%,"Shap
+ Value",0.6332662251233399
+ca,10%,"Shap
+ Value",0.37562555769897904
+ca,30%,"Shap
+ Value",1.0703081194925113
+ca,50%,"Shap
+ Value",1.9470149798173488
+ca,70%,"Shap
+ Value",2.868842090584436
+chol,10%,"Shap
+ Value",0.18087847291726197
+chol,30%,"Shap
+ Value",0.3452220371641518
+chol,50%,"Shap
+ Value",0.5881201463534929
+chol,70%,"Shap
+ Value",0.8497402373241089
+cp,10%,"Shap
+ Value",0.33944630201455434
+cp,30%,"Shap
+ Value",1.0348005575262897
+cp,50%,"Shap
+ Value",1.8084545793088285
+cp,70%,"Shap
+ Value",2.460150079057894
+exang,10%,"Shap
+ Value",0.09709215498570564
+exang,30%,"Shap
+ Value",0.28469509889018824
+exang,50%,"Shap
+ Value",0.4518792977130525
+exang,70%,"Shap
+ Value",0.7031520233295914
+fbs,10%,"Shap
+ Value",0.0075490372296065505
+fbs,30%,"Shap
+ Value",0.023828900480096137
+fbs,50%,"Shap
+ Value",0.05836303988619198
+fbs,70%,"Shap
+ Value",0.0879783352576501
+oldpeak,10%,"Shap
+ Value",0.2018457745871159
+oldpeak,30%,"Shap
+ Value",0.667761649132415
+oldpeak,50%,"Shap
+ Value",1.111767204066738
+oldpeak,70%,"Shap
+ Value",1.6135453239988533
+restecg,10%,"Shap
+ Value",0.01726873381526706
+restecg,30%,"Shap
+ Value",0.053449856643826545
+restecg,50%,"Shap
+ Value",0.1087816730379683
+restecg,70%,"Shap
+ Value",0.14376277558714354
+sex,10%,"Shap
+ Value",0.0562186222723984
+sex,30%,"Shap
+ Value",0.16352298421877484
+sex,50%,"Shap
+ Value",0.2767153509287425
+sex,70%,"Shap
+ Value",0.36949452890121304
+thal,10%,"Shap
+ Value",0.5860727323721363
+thal,30%,"Shap
+ Value",1.7668171983285696
+thal,50%,"Shap
+ Value",2.7971562833906036
+thal,70%,"Shap
+ Value",3.9025969375617686
+thalach,10%,"Shap
+ Value",0.07732994790569825
+thalach,30%,"Shap
+ Value",0.30855862981311366
+thalach,50%,"Shap
+ Value",0.5670012242166926
+thalach,70%,"Shap
+ Value",0.7548502077588728
+trestbps,10%,"Shap
+ Value",0.10300622682038363
+trestbps,30%,"Shap
+ Value",0.42349338228422617
+trestbps,50%,"Shap
+ Value",0.7530129694059509
+trestbps,70%,"Shap
+ Value",1.0028771996801347

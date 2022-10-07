@@ -1,0 +1,145 @@
+ID,Features,Swap,Swap_ratio,Casuality_metrics,Value
+F_0,age,0.1,10%,"Propensity
+ score(+)",1.08125
+F_0,age,0.1,10%,"Worse case
+ unfair degree(+)",416.4151282051291
+F_0,age,0.1,10%,"Epsilon
+ unfair degree(+)",42.95406526352688
+F_0,age,0.3,30%,"Propensity
+ score(+)",3.40975
+F_0,age,0.3,30%,"Worse case
+ unfair degree(+)",4152.849999999743
+F_0,age,0.3,30%,"Epsilon
+ unfair degree(+)",125.49641148325352
+F_0,age,0.5,50%,"Propensity
+ score(+)",6.0225
+F_0,age,0.5,50%,"Worse case
+ unfair degree(+)",2829.239583333215
+F_0,age,0.5,50%,"Epsilon
+ unfair degree(+)",190.14090909090925
+F_0,age,0.7,70%,"Propensity
+ score(+)",9.271999999999998
+F_0,age,0.7,70%,"Worse case
+ unfair degree(+)",3649.000000000063
+F_0,age,0.7,70%,"Epsilon
+ unfair degree(+)",160.97409733124005
+F_1,race,0.1,10%,"Propensity
+ score(+)",0.66
+F_1,race,0.1,10%,"Worse case
+ unfair degree(+)",1945.1249999998256
+F_1,race,0.1,10%,"Epsilon
+ unfair degree(+)",596.7560386472863
+F_1,race,0.3,30%,"Propensity
+ score(+)",2.003
+F_1,race,0.3,30%,"Worse case
+ unfair degree(+)",3304.7499999996517
+F_1,race,0.3,30%,"Epsilon
+ unfair degree(+)",390.4925160122529
+F_1,race,0.5,50%,"Propensity
+ score(+)",3.388
+F_1,race,0.5,50%,"Worse case
+ unfair degree(+)",3304.7499999996517
+F_1,race,0.5,50%,"Epsilon
+ unfair degree(+)",685.1308373590985
+F_1,race,0.7,70%,"Propensity
+ score(+)",4.4559999999999995
+F_1,race,0.7,70%,"Worse case
+ unfair degree(+)",5849.999999999332
+F_1,race,0.7,70%,"Epsilon
+ unfair degree(+)",1405.7142857142844
+F_2,sex,0.1,10%,"Propensity
+ score(+)",0.94825
+F_2,sex,0.1,10%,"Worse case
+ unfair degree(+)",459.4225382003408
+F_2,sex,0.1,10%,"Epsilon
+ unfair degree(+)",127.44066008211155
+F_2,sex,0.3,30%,"Propensity
+ score(+)",2.7104999999999997
+F_2,sex,0.3,30%,"Worse case
+ unfair degree(+)",459.4225382003408
+F_2,sex,0.3,30%,"Epsilon
+ unfair degree(+)",289.76034592529976
+F_2,sex,0.5,50%,"Propensity
+ score(+)",4.52675
+F_2,sex,0.5,50%,"Worse case
+ unfair degree(+)",508.2580645161278
+F_2,sex,0.5,50%,"Epsilon
+ unfair degree(+)",410.58701188455376
+F_2,sex,0.7,70%,"Propensity
+ score(+)",6.418
+F_2,sex,0.7,70%,"Worse case
+ unfair degree(+)",400.516129032261
+F_2,sex,0.7,70%,"Epsilon
+ unfair degree(+)",400.516129032261
+F_3,capital-gain,0.1,10%,"Propensity
+ score(+)",0.28225
+F_3,capital-gain,0.1,10%,"Worse case
+ unfair degree(+)",4.625000000000002
+F_3,capital-gain,0.1,10%,"Epsilon
+ unfair degree(+)",0.0
+F_3,capital-gain,0.3,30%,"Propensity
+ score(+)",1.0115
+F_3,capital-gain,0.3,30%,"Worse case
+ unfair degree(+)",1.25
+F_3,capital-gain,0.3,30%,"Epsilon
+ unfair degree(+)",0.75
+F_3,capital-gain,0.5,50%,"Propensity
+ score(+)",2.02325
+F_3,capital-gain,0.5,50%,"Worse case
+ unfair degree(+)",6.104166666666668
+F_3,capital-gain,0.5,50%,"Epsilon
+ unfair degree(+)",0.75
+F_3,capital-gain,0.7,70%,"Propensity
+ score(+)",3.3055
+F_3,capital-gain,0.7,70%,"Worse case
+ unfair degree(+)",14.250000000000002
+F_3,capital-gain,0.7,70%,"Epsilon
+ unfair degree(+)",1.3333333333333333
+F_4,capital-loss,0.1,10%,"Propensity
+ score(+)",2.20275
+F_4,capital-loss,0.1,10%,"Worse case
+ unfair degree(+)",1.005952380952381
+F_4,capital-loss,0.1,10%,"Epsilon
+ unfair degree(+)",0.5
+F_4,capital-loss,0.3,30%,"Propensity
+ score(+)",7.34675
+F_4,capital-loss,0.3,30%,"Worse case
+ unfair degree(+)",6.514285714285714
+F_4,capital-loss,0.3,30%,"Epsilon
+ unfair degree(+)",1.1358267716535433
+F_4,capital-loss,0.5,50%,"Propensity
+ score(+)",12.85425
+F_4,capital-loss,0.5,50%,"Worse case
+ unfair degree(+)",3.3815789473684212
+F_4,capital-loss,0.5,50%,"Epsilon
+ unfair degree(+)",1.3392857142857144
+F_4,capital-loss,0.7,70%,"Propensity
+ score(+)",16.758000000000003
+F_4,capital-loss,0.7,70%,"Worse case
+ unfair degree(+)",10.333333333333336
+F_4,capital-loss,0.7,70%,"Epsilon
+ unfair degree(+)",1.1785714285714286
+F_5,hours-per-week,0.1,10%,"Propensity
+ score(+)",0.61975
+F_5,hours-per-week,0.1,10%,"Worse case
+ unfair degree(+)",94.62711864406768
+F_5,hours-per-week,0.1,10%,"Epsilon
+ unfair degree(+)",18.39000305822366
+F_5,hours-per-week,0.3,30%,"Propensity
+ score(+)",2.4532499999999997
+F_5,hours-per-week,0.3,30%,"Worse case
+ unfair degree(+)",503.4147727272899
+F_5,hours-per-week,0.3,30%,"Epsilon
+ unfair degree(+)",53.92898007019708
+F_5,hours-per-week,0.5,50%,"Propensity
+ score(+)",4.212666666666666
+F_5,hours-per-week,0.5,50%,"Worse case
+ unfair degree(+)",693.5227272727501
+F_5,hours-per-week,0.5,50%,"Epsilon
+ unfair degree(+)",91.91935315597273
+F_5,hours-per-week,0.7,70%,"Propensity
+ score(+)",8.190999999999999
+F_5,hours-per-week,0.7,70%,"Worse case
+ unfair degree(+)",663.0714285714229
+F_5,hours-per-week,0.7,70%,"Epsilon
+ unfair degree(+)",100.49999999999996

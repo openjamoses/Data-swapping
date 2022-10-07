@@ -1,0 +1,73 @@
+Features,Swap,Swap_ratio,Distance_measure,Difference,Std,Protected,NonProtected
+age,0.1,10%,"Propensity
+ score(+)",0.25680000000000014,0.12840000000000007,"age
+[<=37]",>=38
+age,0.3,30%,"Propensity
+ score(+)",0.7941999999999996,0.3970999999999998,"age
+[<=37]",>=38
+age,0.5,50%,"Propensity
+ score(+)",1.1543999999999999,0.5771999999999999,"age
+[<=37]",>=38
+age,0.7,70%,"Propensity
+ score(+)",1.7891999999999992,0.8945999999999996,"age
+[<=37]",>=38
+race,0.1,10%,"Propensity
+ score(+)",0.30399999999999994,0.15199999999999997,"race
+[0]",1
+race,0.3,30%,"Propensity
+ score(+)",1.0684,0.5342,"race
+[0]",1
+race,0.5,50%,"Propensity
+ score(+)",1.9323999999999995,0.9661999999999997,"race
+[0]",1
+race,0.7,70%,"Propensity
+ score(+)",2.6114000000000006,1.3057000000000003,"race
+[0]",1
+sex,0.1,10%,"Propensity
+ score(+)",0.3759999999999999,0.18799999999999994,"sex
+[0]",1
+sex,0.3,30%,"Propensity
+ score(+)",1.234,0.617,"sex
+[0]",1
+sex,0.5,50%,"Propensity
+ score(+)",1.928,0.964,"sex
+[0]",1
+sex,0.7,70%,"Propensity
+ score(+)",2.906600000000001,1.4533000000000005,"sex
+[0]",1
+capital-gain,0.1,10%,"Propensity
+ score(+)",2.7475999999999985,1.3737999999999992,"capital-gain
+[<=3471]",>=3674
+capital-gain,0.3,30%,"Propensity
+ score(+)",8.240200000000003,4.120100000000002,"capital-gain
+[<=3471]",>=3674
+capital-gain,0.5,50%,"Propensity
+ score(+)",11.9376,5.9688,"capital-gain
+[<=3471]",>=3674
+capital-gain,0.7,70%,"Propensity
+ score(+)",16.4852,8.2426,"capital-gain
+[<=3471]",>=3674
+capital-loss,0.1,10%,"Propensity
+ score(+)",2.2681999999999998,1.1340999999999999,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.3,30%,"Propensity
+ score(+)",7.715000000000002,3.857500000000001,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.5,50%,"Propensity
+ score(+)",12.122999999999994,6.061499999999997,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.7,70%,"Propensity
+ score(+)",15.298000000000002,7.649000000000001,"capital-loss
+[<=1876]",>=1887
+hours-per-week,0.1,10%,"Propensity
+ score(+)",0.8399999999999999,0.41999999999999993,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.3,30%,"Propensity
+ score(+)",2.2822000000000005,1.1411000000000002,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.5,50%,"Propensity
+ score(+)",3.9179999999999993,1.9589999999999996,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.7,70%,"Propensity
+ score(+)",4.440200000000001,2.2201000000000004,"hours-per-week
+[<=40]",>=41

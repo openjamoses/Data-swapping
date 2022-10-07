@@ -1,0 +1,50 @@
+Feature,"Swap 
+ Percentage",Metric,Value
+age,10%,"Shap
+ Value",48.29469389741281
+age,30%,"Shap
+ Value",142.68077235758764
+age,50%,"Shap
+ Value",235.3661177720125
+age,70%,"Shap
+ Value",330.6272607649885
+capital-gain,10%,"Shap
+ Value",33.72094672702694
+capital-gain,30%,"Shap
+ Value",103.24047518978719
+capital-gain,50%,"Shap
+ Value",171.8215472228986
+capital-gain,70%,"Shap
+ Value",238.229942831384
+capital-loss,10%,"Shap
+ Value",14.594107710559296
+capital-loss,30%,"Shap
+ Value",43.4121640615354
+capital-loss,50%,"Shap
+ Value",72.71384941205281
+capital-loss,70%,"Shap
+ Value",100.68797856370128
+hours-per-week,10%,"Shap
+ Value",26.91591174707216
+hours-per-week,30%,"Shap
+ Value",80.35620740195228
+hours-per-week,50%,"Shap
+ Value",134.33840969570778
+hours-per-week,70%,"Shap
+ Value",188.08783077065274
+race,10%,"Shap
+ Value",6.775319586830706
+race,30%,"Shap
+ Value",20.078188611288848
+race,50%,"Shap
+ Value",33.19935077809219
+race,70%,"Shap
+ Value",46.47560995886562
+sex,10%,"Shap
+ Value",26.068632656720688
+sex,30%,"Shap
+ Value",77.06328685178039
+sex,50%,"Shap
+ Value",128.7038479922281
+sex,70%,"Shap
+ Value",180.47701811239344

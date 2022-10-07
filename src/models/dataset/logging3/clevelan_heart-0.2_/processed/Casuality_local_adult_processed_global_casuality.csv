@@ -1,0 +1,73 @@
+ID,Features,Swap,Swap_ratio,Casuality_metrics,Value
+F_0,age,0.1,10%,"Propensity
+ score(+)",0.3226
+F_0,age,0.3,30%,"Propensity
+ score(+)",1.0917999999999999
+F_0,age,0.5,50%,"Propensity
+ score(+)",2.7453
+F_0,age,0.7,70%,"Propensity
+ score(+)",3.0678
+F_1,sex,0.1,10%,"Propensity
+ score(+)",0.2778
+F_1,sex,0.3,30%,"Propensity
+ score(+)",0.9904
+F_1,sex,0.5,50%,"Propensity
+ score(+)",2.0944
+F_1,sex,0.7,70%,"Propensity
+ score(+)",3.0848
+F_10,ca,0.1,10%,"Propensity
+ score(+)",2.5244
+F_10,ca,0.3,30%,"Propensity
+ score(+)",7.6639
+F_10,ca,0.5,50%,"Propensity
+ score(+)",8.5103
+F_10,ca,0.7,70%,"Propensity
+ score(+)",14.1327
+F_11,thal,0.1,10%,"Propensity
+ score(+)",5.8268
+F_11,thal,0.3,30%,"Propensity
+ score(+)",9.993333333333334
+F_11,thal,0.5,50%,"Propensity
+ score(+)",21.993466666666666
+F_11,thal,0.7,70%,"Propensity
+ score(+)",26.453866666666666
+F_2,cp,0.1,10%,"Propensity
+ score(+)",3.2321
+F_2,cp,0.3,30%,"Propensity
+ score(+)",11.3708
+F_2,cp,0.5,50%,"Propensity
+ score(+)",15.718799999999998
+F_2,cp,0.7,70%,"Propensity
+ score(+)",22.0611
+F_5,fbs,0.1,10%,"Propensity
+ score(+)",0.0
+F_5,fbs,0.3,30%,"Propensity
+ score(+)",0.0
+F_5,fbs,0.5,50%,"Propensity
+ score(+)",0.0
+F_5,fbs,0.7,70%,"Propensity
+ score(+)",0.0
+F_6,restecg,0.1,10%,"Propensity
+ score(+)",0.0
+F_6,restecg,0.3,30%,"Propensity
+ score(+)",0.49016666666666664
+F_6,restecg,0.5,50%,"Propensity
+ score(+)",0.49016666666666664
+F_6,restecg,0.7,70%,"Propensity
+ score(+)",0.9815833333333334
+F_8,exang,0.1,10%,"Propensity
+ score(+)",0.0
+F_8,exang,0.3,30%,"Propensity
+ score(+)",1.2584
+F_8,exang,0.5,50%,"Propensity
+ score(+)",2.6322
+F_8,exang,0.7,70%,"Propensity
+ score(+)",3.7443
+F_9,oldpeak,0.1,10%,"Propensity
+ score(+)",1.4075
+F_9,oldpeak,0.3,30%,"Propensity
+ score(+)",2.7399
+F_9,oldpeak,0.5,50%,"Propensity
+ score(+)",7.1945
+F_9,oldpeak,0.7,70%,"Propensity
+ score(+)",8.635200000000001

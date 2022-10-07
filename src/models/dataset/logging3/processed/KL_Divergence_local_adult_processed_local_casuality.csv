@@ -1,0 +1,253 @@
+Features,Swap,Swap_ratio,Distance_measure,Difference,Std,Protected,NonProtected
+age,0.1,10%,"Permutation
+ importance(+)",14.998000000000001,7.4990000000000006,"age
+[<=37]",>=38
+age,0.1,10%,"Propensity
+ score(+)",0.0,0.0,"age
+[<=37]",>=38
+age,0.15,15%,"Permutation
+ importance(+)",16.204499999999992,8.102249999999996,"age
+[<=37]",>=38
+age,0.15,15%,"Propensity
+ score(+)",0.2189,0.10945,"age
+[<=37]",>=38
+age,0.2,20%,"Permutation
+ importance(+)",11.532500000000006,5.766250000000003,"age
+[<=37]",>=38
+age,0.2,20%,"Propensity
+ score(+)",0.17870000000000005,0.08935000000000003,"age
+[<=37]",>=38
+age,0.4,40%,"Permutation
+ importance(+)",15.071900000000003,7.5359500000000015,"age
+[<=37]",>=38
+age,0.4,40%,"Propensity
+ score(+)",0.1786000000000001,0.08930000000000005,"age
+[<=37]",>=38
+age,0.6,60%,"Permutation
+ importance(+)",14.095199999999998,7.047599999999999,"age
+[<=37]",>=38
+age,0.6,60%,"Propensity
+ score(+)",-0.23449999999999993,0.11724999999999997,"age
+[<=37]",>=38
+age,0.8,80%,"Permutation
+ importance(+)",14.970000000000006,7.485000000000003,"age
+[<=37]",>=38
+age,0.8,80%,"Propensity
+ score(+)",-0.2721000000000001,0.13605000000000006,"age
+[<=37]",>=38
+age,0.95,95%,"Permutation
+ importance(+)",15.905700000000003,7.9528500000000015,"age
+[<=37]",>=38
+age,0.95,95%,"Propensity
+ score(+)",-0.33840000000000003,0.16920000000000002,"age
+[<=37]",>=38
+race,0.1,10%,"Permutation
+ importance(+)",5.864900000000006,2.932450000000003,"race
+[0]",1
+race,0.1,10%,"Propensity
+ score(+)",0.0926,0.0463,"race
+[0]",1
+race,0.15,15%,"Permutation
+ importance(+)",6.628600000000002,3.314300000000001,"race
+[0]",1
+race,0.15,15%,"Propensity
+ score(+)",-0.17989999999999998,0.08994999999999999,"race
+[0]",1
+race,0.2,20%,"Permutation
+ importance(+)",9.382000000000001,4.691000000000001,"race
+[0]",1
+race,0.2,20%,"Propensity
+ score(+)",0.1908,0.0954,"race
+[0]",1
+race,0.4,40%,"Permutation
+ importance(+)",5.1341,2.56705,"race
+[0]",1
+race,0.4,40%,"Propensity
+ score(+)",-0.2795,0.13975,"race
+[0]",1
+race,0.6,60%,"Permutation
+ importance(+)",8.575200000000002,4.287600000000001,"race
+[0]",1
+race,0.6,60%,"Propensity
+ score(+)",0.3547,0.17735,"race
+[0]",1
+race,0.8,80%,"Permutation
+ importance(+)",4.735600000000002,2.367800000000001,"race
+[0]",1
+race,0.8,80%,"Propensity
+ score(+)",0.17349999999999993,0.08674999999999997,"race
+[0]",1
+race,0.95,95%,"Permutation
+ importance(+)",6.562100000000001,3.2810500000000005,"race
+[0]",1
+race,0.95,95%,"Propensity
+ score(+)",0.17909999999999993,0.08954999999999996,"race
+[0]",1
+sex,0.1,10%,"Permutation
+ importance(+)",16.921699999999994,8.460849999999997,"sex
+[0]",1
+sex,0.1,10%,"Propensity
+ score(+)",0.0,0.0,"sex
+[0]",1
+sex,0.15,15%,"Permutation
+ importance(+)",12.941300000000002,6.470650000000001,"sex
+[0]",1
+sex,0.15,15%,"Propensity
+ score(+)",0.4979,0.24895,"sex
+[0]",1
+sex,0.2,20%,"Permutation
+ importance(+)",12.532800000000002,6.266400000000001,"sex
+[0]",1
+sex,0.2,20%,"Propensity
+ score(+)",0.126,0.063,"sex
+[0]",1
+sex,0.4,40%,"Permutation
+ importance(+)",15.411899999999996,7.705949999999998,"sex
+[0]",1
+sex,0.4,40%,"Propensity
+ score(+)",-0.00039999999999995595,0.00019999999999997797,"sex
+[0]",1
+sex,0.6,60%,"Permutation
+ importance(+)",14.350700000000003,7.175350000000002,"sex
+[0]",1
+sex,0.6,60%,"Propensity
+ score(+)",0.004699999999999982,0.002349999999999991,"sex
+[0]",1
+sex,0.8,80%,"Permutation
+ importance(+)",15.063100000000002,7.531550000000001,"sex
+[0]",1
+sex,0.8,80%,"Propensity
+ score(+)",0.2701,0.13505,"sex
+[0]",1
+sex,0.95,95%,"Permutation
+ importance(+)",13.605700000000006,6.802850000000003,"sex
+[0]",1
+sex,0.95,95%,"Propensity
+ score(+)",-0.4426,0.2213,"sex
+[0]",1
+capital-gain,0.1,10%,"Permutation
+ importance(+)",47.95349999999999,23.976749999999996,"capital-gain
+[<=3471]",>=3674
+capital-gain,0.1,10%,"Propensity
+ score(+)",-0.5892999999999999,0.29464999999999997,"capital-gain
+[<=3471]",>=3674
+capital-gain,0.15,15%,"Permutation
+ importance(+)",41.8293,20.91465,"capital-gain
+[<=3471]",>=3674
+capital-gain,0.15,15%,"Propensity
+ score(+)",-0.29890000000000005,0.14945000000000003,"capital-gain
+[<=3471]",>=3674
+capital-gain,0.2,20%,"Permutation
+ importance(+)",40.1077,20.05385,"capital-gain
+[<=3471]",>=3674
+capital-gain,0.2,20%,"Propensity
+ score(+)",-0.5062,0.2531,"capital-gain
+[<=3471]",>=3674
+capital-gain,0.4,40%,"Permutation
+ importance(+)",43.8853,21.94265,"capital-gain
+[<=3471]",>=3674
+capital-gain,0.4,40%,"Propensity
+ score(+)",-0.08650000000000002,0.04325000000000001,"capital-gain
+[<=3471]",>=3674
+capital-gain,0.6,60%,"Permutation
+ importance(+)",41.99159999999999,20.9958,"capital-gain
+[<=3471]",>=3674
+capital-gain,0.6,60%,"Propensity
+ score(+)",1.9308999999999998,0.9654499999999999,"capital-gain
+[<=3471]",>=3674
+capital-gain,0.8,80%,"Permutation
+ importance(+)",41.76600000000001,20.883000000000006,"capital-gain
+[<=3471]",>=3674
+capital-gain,0.8,80%,"Propensity
+ score(+)",0.9945999999999993,0.49729999999999963,"capital-gain
+[<=3471]",>=3674
+capital-gain,0.95,95%,"Permutation
+ importance(+)",41.66460000000001,20.8323,"capital-gain
+[<=3471]",>=3674
+capital-gain,0.95,95%,"Propensity
+ score(+)",-0.4112,0.2056,"capital-gain
+[<=3471]",>=3674
+capital-loss,0.1,10%,"Permutation
+ importance(+)",42.211400000000005,21.105700000000002,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.1,10%,"Propensity
+ score(+)",-0.2485,0.12425,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.15,15%,"Permutation
+ importance(+)",35.642700000000005,17.821350000000002,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.15,15%,"Propensity
+ score(+)",0.7516,0.37579999999999997,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.2,20%,"Permutation
+ importance(+)",28.6321,14.31605,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.2,20%,"Propensity
+ score(+)",0.45199999999999996,0.22599999999999998,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.4,40%,"Permutation
+ importance(+)",35.8682,17.934099999999997,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.4,40%,"Propensity
+ score(+)",-1.0539,0.52695,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.6,60%,"Permutation
+ importance(+)",39.31320000000001,19.656600000000005,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.6,60%,"Propensity
+ score(+)",0.011600000000000055,0.005800000000000027,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.8,80%,"Permutation
+ importance(+)",27.422299999999996,13.711149999999998,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.8,80%,"Propensity
+ score(+)",0.8550000000000004,0.4275000000000002,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.95,95%,"Permutation
+ importance(+)",36.43260000000001,18.2163,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.95,95%,"Propensity
+ score(+)",-0.33869999999999933,0.16934999999999967,"capital-loss
+[<=1876]",>=1887
+hours-per-week,0.1,10%,"Permutation
+ importance(+)",13.199699999999993,6.599849999999996,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.1,10%,"Propensity
+ score(+)",0.0,0.0,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.15,15%,"Permutation
+ importance(+)",14.189400000000003,7.094700000000002,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.15,15%,"Propensity
+ score(+)",-0.1094,0.0547,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.2,20%,"Permutation
+ importance(+)",15.678199999999997,7.839099999999998,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.2,20%,"Propensity
+ score(+)",0.13579999999999998,0.06789999999999999,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.4,40%,"Permutation
+ importance(+)",15.889700000000001,7.944850000000001,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.4,40%,"Propensity
+ score(+)",0.07300000000000006,0.03650000000000003,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.6,60%,"Permutation
+ importance(+)",16.362299999999998,8.181149999999999,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.6,60%,"Propensity
+ score(+)",-0.4505,0.22525,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.8,80%,"Permutation
+ importance(+)",15.349900000000005,7.674950000000003,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.8,80%,"Propensity
+ score(+)",-0.06010000000000004,0.03005000000000002,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.95,95%,"Permutation
+ importance(+)",16.6646,8.3323,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.95,95%,"Propensity
+ score(+)",0.0884999999999998,0.0442499999999999,"hours-per-week
+[<=40]",>=41

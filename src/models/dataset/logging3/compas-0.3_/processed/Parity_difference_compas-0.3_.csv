@@ -1,0 +1,145 @@
+Features,Swap,Swap_ratio,Distance_measure,Difference,Std,Protected,NonProtected
+race,10,10%,"Hellinger
+ distance(+)",0.0,0.0,"race
+(Caucasian)",None-Caucasian
+race,10,10%,"Wasserstein
+ distance(+)",0.0,0.0,"race
+(Caucasian)",None-Caucasian
+sex,10,10%,"Total variation
+ distance(+)",0.0028452003509776003,0.0014226001754888001,"race
+(Caucasian)",None-Caucasian
+sex,10,10%,"Jensen-Shannon
+ divergence(+)",0.0,0.0,"race
+(Caucasian)",None-Caucasian
+race,30,30%,"Hellinger
+ distance(+)",0.0,0.0,"race
+(Caucasian)",None-Caucasian
+race,30,30%,"Wasserstein
+ distance(+)",0.0,0.0,"race
+(Caucasian)",None-Caucasian
+sex,30,30%,"Total variation
+ distance(+)",0.00978911222119594,0.00489455611059797,"race
+(Caucasian)",None-Caucasian
+sex,30,30%,"Jensen-Shannon
+ divergence(+)",0.0,0.0,"race
+(Caucasian)",None-Caucasian
+race,50,50%,"Hellinger
+ distance(+)",0.0,0.0,"race
+(Caucasian)",None-Caucasian
+race,50,50%,"Wasserstein
+ distance(+)",0.0,0.0,"race
+(Caucasian)",None-Caucasian
+sex,50,50%,"Total variation
+ distance(+)",0.005467048157358545,0.0027335240786792725,"race
+(Caucasian)",None-Caucasian
+sex,50,50%,"Jensen-Shannon
+ divergence(+)",0.0,0.0,"race
+(Caucasian)",None-Caucasian
+race,70,70%,"Hellinger
+ distance(+)",0.0,0.0,"race
+(Caucasian)",None-Caucasian
+race,70,70%,"Wasserstein
+ distance(+)",0.0,0.0,"race
+(Caucasian)",None-Caucasian
+sex,70,70%,"Total variation
+ distance(+)",0.013659579928378962,0.006829789964189481,"race
+(Caucasian)",None-Caucasian
+sex,70,70%,"Jensen-Shannon
+ divergence(+)",0.0,0.0,"race
+(Caucasian)",None-Caucasian
+age,10,10%,"Hellinger
+ distance(+)",0.6911082074309187,0.34555410371545936,"age
+(>50)",<=50
+age,10,10%,"Wasserstein
+ distance(+)",0.01889850263333758,0.00944925131666879,"age
+(>50)",<=50
+sex,10,10%,"Total variation
+ distance(+)",0.4536214309913076,0.2268107154956538,"age
+(>50)",<=50
+sex,10,10%,"Jensen-Shannon
+ divergence(+)",0.12442803722677624,0.06221401861338812,"age
+(>50)",<=50
+age,30,30%,"Hellinger
+ distance(+)",1.1934233507768273,0.5967116753884136,"age
+(>50)",<=50
+age,30,30%,"Wasserstein
+ distance(+)",0.05241546817831193,0.026207734089155964,"age
+(>50)",<=50
+sex,30,30%,"Total variation
+ distance(+)",1.0884816379348865,0.5442408189674433,"age
+(>50)",<=50
+sex,30,30%,"Jensen-Shannon
+ divergence(+)",0.21228688687889252,0.10614344343944626,"age
+(>50)",<=50
+age,50,50%,"Hellinger
+ distance(+)",1.5712115979763568,0.7856057989881784,"age
+(>50)",<=50
+age,50,50%,"Wasserstein
+ distance(+)",0.08557912432680713,0.042789562163403565,"age
+(>50)",<=50
+sex,50,50%,"Total variation
+ distance(+)",1.6155231893411075,0.8077615946705538,"age
+(>50)",<=50
+sex,50,50%,"Jensen-Shannon
+ divergence(+)",0.27332949116098326,0.13666474558049163,"age
+(>50)",<=50
+age,70,70%,"Hellinger
+ distance(+)",1.846556523724816,0.923278261862408,"age
+(>50)",<=50
+age,70,70%,"Wasserstein
+ distance(+)",0.11268359446730505,0.05634179723365253,"age
+(>50)",<=50
+sex,70,70%,"Total variation
+ distance(+)",1.9235830624693782,0.9617915312346891,"age
+(>50)",<=50
+sex,70,70%,"Jensen-Shannon
+ divergence(+)",0.30880722099694125,0.15440361049847062,"age
+(>50)",<=50
+sex,10,10%,"Hellinger
+ distance(+)",0.0,0.0,"sex
+(Male)",Female
+sex,10,10%,"Wasserstein
+ distance(+)",0.0,0.0,"sex
+(Male)",Female
+sex,10,10%,"Total variation
+ distance(+)",0.015308774290844013,0.007654387145422006,"sex
+(Male)",Female
+sex,10,10%,"Jensen-Shannon
+ divergence(+)",0.0,0.0,"sex
+(Male)",Female
+sex,30,30%,"Hellinger
+ distance(+)",0.0,0.0,"sex
+(Male)",Female
+sex,30,30%,"Wasserstein
+ distance(+)",0.0,0.0,"sex
+(Male)",Female
+sex,30,30%,"Total variation
+ distance(+)",0.04128758421410861,0.020643792107054304,"sex
+(Male)",Female
+sex,30,30%,"Jensen-Shannon
+ divergence(+)",0.0,0.0,"sex
+(Male)",Female
+sex,50,50%,"Hellinger
+ distance(+)",0.0,0.0,"sex
+(Male)",Female
+sex,50,50%,"Wasserstein
+ distance(+)",0.0,0.0,"sex
+(Male)",Female
+sex,50,50%,"Total variation
+ distance(+)",0.03997109440064783,0.019985547200323917,"sex
+(Male)",Female
+sex,50,50%,"Jensen-Shannon
+ divergence(+)",0.0,0.0,"sex
+(Male)",Female
+sex,70,70%,"Hellinger
+ distance(+)",0.0,0.0,"sex
+(Male)",Female
+sex,70,70%,"Wasserstein
+ distance(+)",0.0,0.0,"sex
+(Male)",Female
+sex,70,70%,"Total variation
+ distance(+)",0.04157655458864462,0.02078827729432231,"sex
+(Male)",Female
+sex,70,70%,"Jensen-Shannon
+ divergence(+)",0.0,0.0,"sex
+(Male)",Female

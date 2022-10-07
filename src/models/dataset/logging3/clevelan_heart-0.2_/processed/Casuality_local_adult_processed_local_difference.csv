@@ -1,0 +1,109 @@
+Features,Swap,Swap_ratio,Distance_measure,Difference,Std,Protected,NonProtected
+age,0.1,10%,"Propensity
+ score(+)",-0.6452,0.3226,"age
+[1.0]",0.0
+age,0.3,30%,"Propensity
+ score(+)",-2.1835999999999998,1.0917999999999999,"age
+[1.0]",0.0
+age,0.5,50%,"Propensity
+ score(+)",-1.5954000000000002,0.7977000000000001,"age
+[1.0]",0.0
+age,0.7,70%,"Propensity
+ score(+)",-2.2403999999999997,1.1201999999999999,"age
+[1.0]",0.0
+sex,0.1,10%,"Propensity
+ score(+)",0.5556,0.2778,"sex
+[0.0]",1.0
+sex,0.3,30%,"Propensity
+ score(+)",0.24160000000000004,0.12080000000000002,"sex
+[0.0]",1.0
+sex,0.5,50%,"Propensity
+ score(+)",0.0968,0.0484,"sex
+[0.0]",1.0
+sex,0.7,70%,"Propensity
+ score(+)",0.33840000000000003,0.16920000000000002,"sex
+[0.0]",1.0
+ca,0.1,10%,"Propensity
+ score(+)",-1.7484000000000006,0.8742000000000003,"ca
+[>=2.0]",<=1.0
+ca,0.3,30%,"Propensity
+ score(+)",-1.4694000000000003,0.7347000000000001,"ca
+[>=2.0]",<=1.0
+ca,0.5,50%,"Propensity
+ score(+)",10.2234,5.1117,"ca
+[>=2.0]",<=1.0
+ca,0.7,70%,"Propensity
+ score(+)",9.932200000000002,4.966100000000001,"ca
+[>=2.0]",<=1.0
+thal,0.1,10%,"Propensity
+ score(+)",-8.075,4.0375,"thal
+[6.0]",3.0
+thal,0.3,30%,"Propensity
+ score(+)",-3.969999999999999,1.9849999999999994,"thal
+[6.0]",3.0
+thal,0.5,50%,"Propensity
+ score(+)",-19.7588,9.8794,"thal
+[6.0]",3.0
+thal,0.7,70%,"Propensity
+ score(+)",-16.835800000000003,8.417900000000001,"thal
+[6.0]",3.0
+cp,0.1,10%,"Propensity
+ score(+)",3.7053999999999996,1.8526999999999998,"cp
+[4.0]",<=3.0
+cp,0.3,30%,"Propensity
+ score(+)",1.5492000000000008,0.7746000000000004,"cp
+[4.0]",<=3.0
+cp,0.5,50%,"Propensity
+ score(+)",1.7647999999999975,0.8823999999999987,"cp
+[4.0]",<=3.0
+cp,0.7,70%,"Propensity
+ score(+)",3.1610000000000014,1.5805000000000007,"cp
+[4.0]",<=3.0
+fbs,0.1,10%,"Propensity
+ score(+)",0.0,0.0,"fbs
+[1.0]",0.0
+fbs,0.3,30%,"Propensity
+ score(+)",0.0,0.0,"fbs
+[1.0]",0.0
+fbs,0.5,50%,"Propensity
+ score(+)",0.0,0.0,"fbs
+[1.0]",0.0
+fbs,0.7,70%,"Propensity
+ score(+)",0.0,0.0,"fbs
+[1.0]",0.0
+restecg,0.1,10%,"Propensity
+ score(+)",0.0,0.0,"restecg
+[1.0]",0.0
+restecg,0.3,30%,"Propensity
+ score(+)",1.1764,0.5882,"restecg
+[1.0]",0.0
+restecg,0.5,50%,"Propensity
+ score(+)",1.1764,0.5882,"restecg
+[1.0]",0.0
+restecg,0.7,70%,"Propensity
+ score(+)",1.8905999999999998,0.9452999999999999,"restecg
+[1.0]",0.0
+exang,0.1,10%,"Propensity
+ score(+)",0.0,0.0,"exang
+[1.0]",0.0
+exang,0.3,30%,"Propensity
+ score(+)",0.8500000000000001,0.42500000000000004,"exang
+[1.0]",0.0
+exang,0.5,50%,"Propensity
+ score(+)",0.2644000000000002,0.1322000000000001,"exang
+[1.0]",0.0
+exang,0.7,70%,"Propensity
+ score(+)",2.4886,1.2443,"exang
+[1.0]",0.0
+oldpeak,0.1,10%,"Propensity
+ score(+)",0.06700000000000017,0.033500000000000085,"oldpeak
+[>=0.9]",<=0.8
+oldpeak,0.3,30%,"Propensity
+ score(+)",1.0654,0.5327,"oldpeak
+[>=0.9]",<=0.8
+oldpeak,0.5,50%,"Propensity
+ score(+)",-2.3206000000000007,1.1603000000000003,"oldpeak
+[>=0.9]",<=0.8
+oldpeak,0.7,70%,"Propensity
+ score(+)",1.8124000000000002,0.9062000000000001,"oldpeak
+[>=0.9]",<=0.8

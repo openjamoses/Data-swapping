@@ -1,0 +1,9 @@
+Measures,Rank_CDI_SHAP,Rank_Double_SHAP
+"Hellinger
+ distance",0.931,0.831
+"Jensen-Shannon
+ divergence",0.961,0.831
+"Total variation
+ distance",0.978,0.831
+"Wasserstein
+ distance",0.947,0.842

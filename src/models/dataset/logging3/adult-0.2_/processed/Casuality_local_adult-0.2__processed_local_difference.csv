@@ -1,0 +1,217 @@
+Features,Swap,Swap_ratio,Distance_measure,Difference,Std,Protected,NonProtected
+age,0.1,10%,"Propensity
+ score(+)",0.7414999999999999,0.37074999999999997,"age
+[<=37]",>=38
+age,0.1,10%,"Worse case
+ unfair degree(+)",-121.1635897435873,60.58179487179365,"age
+[<=37]",>=38
+age,0.1,10%,"Epsilon
+ unfair degree(+)",20.6138474949246,10.3069237474623,"age
+[<=37]",>=38
+age,0.3,30%,"Propensity
+ score(+)",1.9704999999999995,0.9852499999999997,"age
+[<=37]",>=38
+age,0.3,30%,"Worse case
+ unfair degree(+)",1406.3000000000347,703.1500000000174,"age
+[<=37]",>=38
+age,0.3,30%,"Epsilon
+ unfair degree(+)",2.4019138755978844,1.2009569377989422,"age
+[<=37]",>=38
+age,0.5,50%,"Propensity
+ score(+)",2.5840000000000005,1.2920000000000003,"age
+[<=37]",>=38
+age,0.5,50%,"Worse case
+ unfair degree(+)",4053.5208333330897,2026.7604166665449,"age
+[<=37]",>=38
+age,0.5,50%,"Epsilon
+ unfair degree(+)",-11.8181818181817,5.90909090909085,"age
+[<=37]",>=38
+age,0.7,70%,"Propensity
+ score(+)",2.2140000000000004,1.1070000000000002,"age
+[<=37]",>=38
+age,0.7,70%,"Worse case
+ unfair degree(+)",0.0,0.0,"age
+[<=37]",>=38
+age,0.7,70%,"Epsilon
+ unfair degree(+)",-46.25588697017301,23.127943485086504,"age
+[<=37]",>=38
+race,0.1,10%,"Propensity
+ score(+)",0.6759999999999999,0.338,"race
+[0]",1
+race,0.1,10%,"Worse case
+ unfair degree(+)",2719.249999999652,1359.6249999998263,"race
+[0]",1
+race,0.1,10%,"Epsilon
+ unfair degree(+)",926.1787439612397,463.08937198061983,"race
+[0]",1
+race,0.3,30%,"Propensity
+ score(+)",1.573,0.7865,"race
+[0]",1
+race,0.3,30%,"Worse case
+ unfair degree(+)",0.0,0.0,"race
+[0]",1
+race,0.3,30%,"Epsilon
+ unfair degree(+)",445.4752854358118,222.7376427179059,"race
+[0]",1
+race,0.5,50%,"Propensity
+ score(+)",2.484,1.242,"race
+[0]",1
+race,0.5,50%,"Worse case
+ unfair degree(+)",0.0,0.0,"race
+[0]",1
+race,0.5,50%,"Epsilon
+ unfair degree(+)",323.96537842190025,161.98268921095013,"race
+[0]",1
+race,0.7,70%,"Propensity
+ score(+)",3.784,1.892,"race
+[0]",1
+race,0.7,70%,"Worse case
+ unfair degree(+)",0.0,0.0,"race
+[0]",1
+race,0.7,70%,"Epsilon
+ unfair degree(+)",468.5714285714282,234.2857142857141,"race
+[0]",1
+sex,0.1,10%,"Propensity
+ score(+)",0.4135,0.20675,"sex
+[0]",1
+sex,0.1,10%,"Worse case
+ unfair degree(+)",97.67105263157401,48.83552631578701,"sex
+[0]",1
+sex,0.1,10%,"Epsilon
+ unfair degree(+)",-40.4155541555741,20.20777707778705,"sex
+[0]",1
+sex,0.3,30%,"Propensity
+ score(+)",1.5539999999999998,0.7769999999999999,"sex
+[0]",1
+sex,0.3,30%,"Worse case
+ unfair degree(+)",97.67105263157401,48.83552631578701,"sex
+[0]",1
+sex,0.3,30%,"Epsilon
+ unfair degree(+)",67.12616723259828,33.56308361629914,"sex
+[0]",1
+sex,0.5,50%,"Propensity
+ score(+)",2.3725,1.18625,"sex
+[0]",1
+sex,0.5,50%,"Worse case
+ unfair degree(+)",0.0,0.0,"sex
+[0]",1
+sex,0.5,50%,"Epsilon
+ unfair degree(+)",0.0,0.0,"sex
+[0]",1
+sex,0.7,70%,"Propensity
+ score(+)",4.324,2.162,"sex
+[0]",1
+sex,0.7,70%,"Worse case
+ unfair degree(+)",0.0,0.0,"sex
+[0]",1
+sex,0.7,70%,"Epsilon
+ unfair degree(+)",0.0,0.0,"sex
+[0]",1
+capital-gain,0.1,10%,"Propensity
+ score(+)",-0.5525,0.27625,"capital-gain
+[>=3674]",<=3471
+capital-gain,0.1,10%,"Worse case
+ unfair degree(+)",-8.250000000000004,4.125000000000002,"capital-gain
+[>=3674]",<=3471
+capital-gain,0.1,10%,"Epsilon
+ unfair degree(+)",0.0,0.0,"capital-gain
+[>=3674]",<=3471
+capital-gain,0.3,30%,"Propensity
+ score(+)",-1.9460000000000002,0.9730000000000001,"capital-gain
+[>=3674]",<=3471
+capital-gain,0.3,30%,"Worse case
+ unfair degree(+)",-0.5,0.25,"capital-gain
+[>=3674]",<=3471
+capital-gain,0.3,30%,"Epsilon
+ unfair degree(+)",-1.5,0.75,"capital-gain
+[>=3674]",<=3471
+capital-gain,0.5,50%,"Propensity
+ score(+)",-3.8295000000000003,1.9147500000000002,"capital-gain
+[>=3674]",<=3471
+capital-gain,0.5,50%,"Worse case
+ unfair degree(+)",8.54166666666667,4.270833333333336,"capital-gain
+[>=3674]",<=3471
+capital-gain,0.5,50%,"Epsilon
+ unfair degree(+)",-1.5,0.75,"capital-gain
+[>=3674]",<=3471
+capital-gain,0.7,70%,"Propensity
+ score(+)",-6.321000000000001,3.1605,"capital-gain
+[>=3674]",<=3471
+capital-gain,0.7,70%,"Worse case
+ unfair degree(+)",4.500000000000011,2.2500000000000053,"capital-gain
+[>=3674]",<=3471
+capital-gain,0.7,70%,"Epsilon
+ unfair degree(+)",-2.6666666666666665,1.3333333333333333,"capital-gain
+[>=3674]",<=3471
+capital-loss,0.1,10%,"Propensity
+ score(+)",4.3355,2.16775,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.1,10%,"Worse case
+ unfair degree(+)",0.011904761904761862,0.005952380952380931,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.1,10%,"Epsilon
+ unfair degree(+)",1.0,0.5,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.3,30%,"Propensity
+ score(+)",14.3935,7.19675,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.3,30%,"Worse case
+ unfair degree(+)",-5.171428571428572,2.585714285714286,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.3,30%,"Epsilon
+ unfair degree(+)",2.2716535433070866,1.1358267716535433,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.5,50%,"Propensity
+ score(+)",25.1035,12.55175,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.5,50%,"Worse case
+ unfair degree(+)",3.236842105263158,1.618421052631579,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.5,50%,"Epsilon
+ unfair degree(+)",2.678571428571429,1.3392857142857144,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.7,70%,"Propensity
+ score(+)",32.14,16.070000000000004,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.7,70%,"Worse case
+ unfair degree(+)",-14.666666666666671,7.333333333333336,"capital-loss
+[<=1876]",>=1887
+capital-loss,0.7,70%,"Epsilon
+ unfair degree(+)",2.357142857142857,1.1785714285714286,"capital-loss
+[<=1876]",>=1887
+hours-per-week,0.1,10%,"Propensity
+ score(+)",0.24149999999999994,0.12074999999999997,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.1,10%,"Worse case
+ unfair degree(+)",-86.74576271186422,43.37288135593211,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.1,10%,"Epsilon
+ unfair degree(+)",-4.010515861574728,2.005257930787364,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.3,30%,"Propensity
+ score(+)",1.2254999999999998,0.6127499999999999,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.3,30%,"Worse case
+ unfair degree(+)",-852.8295454545798,426.41477272728986,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.3,30%,"Epsilon
+ unfair degree(+)",-67.90620575442921,33.953102877214604,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.5,50%,"Propensity
+ score(+)",2.0629999999999997,1.0314999999999999,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.5,50%,"Worse case
+ unfair degree(+)",-708.9204545454892,354.4602272727446,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.5,50%,"Epsilon
+ unfair degree(+)",-75.47902973395915,37.739514866979576,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.7,70%,"Propensity
+ score(+)",3.6180000000000003,1.8090000000000002,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.7,70%,"Worse case
+ unfair degree(+)",-924.1428571428485,462.07142857142424,"hours-per-week
+[<=40]",>=41
+hours-per-week,0.7,70%,"Epsilon
+ unfair degree(+)",-92.99999999999991,46.49999999999996,"hours-per-week
+[<=40]",>=41

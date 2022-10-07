@@ -1,0 +1,61 @@
+Features,Swap,Swap_ratio,Distance_measure,Difference,Std,Protected,NonProtected
+sex,0.1,10%,"Propensity
+ score(+)",0.19659999999999989,0.09829999999999994,"sex
+[1.0]",0.0
+sex,0.3,30%,"Propensity
+ score(+)",0.5596000000000001,0.27980000000000005,"sex
+[1.0]",0.0
+sex,0.5,50%,"Propensity
+ score(+)",1.1191999999999993,0.5595999999999997,"sex
+[1.0]",0.0
+sex,0.7,70%,"Propensity
+ score(+)",1.626800000000002,0.813400000000001,"sex
+[1.0]",0.0
+age_cat,0.1,10%,"Propensity
+ score(+)",3.0464,1.5232,"age_cat
+[0.5555555555555556]",0.0
+age_cat,0.3,30%,"Propensity
+ score(+)",8.640200000000002,4.320100000000001,"age_cat
+[0.5555555555555556]",0.0
+age_cat,0.5,50%,"Propensity
+ score(+)",13.890400000000001,6.945200000000001,"age_cat
+[0.5555555555555556]",0.0
+age_cat,0.7,70%,"Propensity
+ score(+)",19.781000000000006,9.890500000000003,"age_cat
+[0.5555555555555556]",0.0
+race,0.1,10%,"Propensity
+ score(+)",0.16599999999999981,0.08299999999999991,"race
+[1.0]",0.0
+race,0.3,30%,"Propensity
+ score(+)",-0.12219999999999986,0.06109999999999993,"race
+[1.0]",0.0
+race,0.5,50%,"Propensity
+ score(+)",0.5039999999999996,0.2519999999999998,"race
+[1.0]",0.0
+race,0.7,70%,"Propensity
+ score(+)",0.9450000000000003,0.47250000000000014,"race
+[1.0]",0.0
+priors_count,0.1,10%,"Propensity
+ score(+)",-1.6476000000000002,0.8238000000000001,"priors_count
+[0.0]",0.75
+priors_count,0.3,30%,"Propensity
+ score(+)",-2.5211999999999986,1.2605999999999993,"priors_count
+[0.0]",0.75
+priors_count,0.5,50%,"Propensity
+ score(+)",-4.005799999999997,2.0028999999999986,"priors_count
+[0.0]",0.75
+priors_count,0.7,70%,"Propensity
+ score(+)",-8.017,4.0085,"priors_count
+[0.0]",0.75
+c_charge_degree,0.1,10%,"Propensity
+ score(+)",0.07420000000000004,0.03710000000000002,"c_charge_degree
+[0.0]",1.0
+c_charge_degree,0.3,30%,"Propensity
+ score(+)",0.8024,0.4012,"c_charge_degree
+[0.0]",1.0
+c_charge_degree,0.5,50%,"Propensity
+ score(+)",1.2408000000000001,0.6204000000000001,"c_charge_degree
+[0.0]",1.0
+c_charge_degree,0.7,70%,"Propensity
+ score(+)",1.7598000000000011,0.8799000000000006,"c_charge_degree
+[0.0]",1.0

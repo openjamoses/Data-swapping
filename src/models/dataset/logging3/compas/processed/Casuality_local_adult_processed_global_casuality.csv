@@ -1,0 +1,41 @@
+ID,Features,Swap,Swap_ratio,Casuality_metrics,Value
+F_0,sex,0.1,10%,"Propensity
+ score(+)",1.2944999999999998
+F_0,sex,0.3,30%,"Propensity
+ score(+)",3.6597999999999997
+F_0,sex,0.5,50%,"Propensity
+ score(+)",6.1814
+F_0,sex,0.7,70%,"Propensity
+ score(+)",8.6904
+F_1,age_cat,0.1,10%,"Propensity
+ score(+)",3.7337333333333333
+F_1,age_cat,0.3,30%,"Propensity
+ score(+)",11.010133333333332
+F_1,age_cat,0.5,50%,"Propensity
+ score(+)",18.53053333333333
+F_1,age_cat,0.7,70%,"Propensity
+ score(+)",25.509666666666664
+F_2,race,0.1,10%,"Propensity
+ score(+)",0.9443999999999999
+F_2,race,0.3,30%,"Propensity
+ score(+)",2.8101
+F_2,race,0.5,50%,"Propensity
+ score(+)",4.511
+F_2,race,0.7,70%,"Propensity
+ score(+)",6.281499999999999
+F_3,priors_count,0.1,10%,"Propensity
+ score(+)",5.928866666666666
+F_3,priors_count,0.3,30%,"Propensity
+ score(+)",18.58513333333333
+F_3,priors_count,0.5,50%,"Propensity
+ score(+)",30.3358
+F_3,priors_count,0.7,70%,"Propensity
+ score(+)",42.95026666666667
+F_4,c_charge_degree,0.1,10%,"Propensity
+ score(+)",0.9291
+F_4,c_charge_degree,0.3,30%,"Propensity
+ score(+)",2.6988
+F_4,c_charge_degree,0.5,50%,"Propensity
+ score(+)",4.6756
+F_4,c_charge_degree,0.7,70%,"Propensity
+ score(+)",6.4193
